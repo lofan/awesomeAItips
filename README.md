@@ -2,7 +2,7 @@
 awesome AI tools tips
 Record and libraries
 
-##Some Highlights##
+## Some Highlights
 
 [ChatGPT Alternative](ChatGPTAlt.md) 
 
