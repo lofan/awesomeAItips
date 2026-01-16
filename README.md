@@ -2,4 +2,4 @@
 awesome AI tools tips
 Record and libraries
 
-[ChatGPT Alternative]() 
+[ChatGPT Alternative](ChatGPTAlt.md) 
