@@ -8,4 +8,4 @@ Record and libraries
 
 [Making Video](tovideo.md)
 
-[Learning Resources](learningres.md)
+[Learning Resources](LearningRes.md)
