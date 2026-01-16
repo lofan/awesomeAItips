@@ -1,4 +1,4 @@
-### Top 10 Must-Read Books on Artificial Intelligence (AI) in 2026
+### [Top 10 Must-Read Books on Artificial Intelligence (AI) in 2026](https://www.index.dev/blog/best-ai-books-engineering-leaders#the-ai-driven-leader-harnessing-ai-to-make-faster-smarter-decisions-by-geoff-woods)
 1. AI Engineering: Building Applications with Foundation Models by Chip Huyen
 2. Co-Intelligence: Living and Working with AI by Ethan Mollick
 3. The LLM Engineering Handbook by Paul Iusztin and Maxime Labonne
