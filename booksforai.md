@@ -9,3 +9,7 @@
 8. Supremacy: AI, ChatGPT, and the Race That Will Change the World by Parmy Olson  
 9. Artificial Intelligence: A Modern Approach (4th Edition) by Stuart Russell and Peter Norvig
 10. The AI-Savvy Leader: Nine Ways to Take Back Control and Make AI Work by David De Cremer
+
+### Others
+[Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
+
