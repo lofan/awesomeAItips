@@ -4,3 +4,4 @@ learning Resource
 * [AI世界的底層邏輯與生存法則 讀後心得](https://readingoutpost.com/ai-world/)
 *［The state of AI in 2025: Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
 * [與 AI 助手合作後的第二大腦系統，我在筆記方法上的變與不變](https://www.playpcesor.com/2026/01/ai.html)
+* [生成AIのプロンプトを作成するコツを10個解説！失敗の原因や作成例も紹介](https://ai.cloudcircus.jp/media/column/gen-ai-prompt-tips)
