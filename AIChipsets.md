@@ -124,4 +124,4 @@ As we look toward 2027, the trend is moving away from "Hardware first." We are e
 * **NVIDIA's Rubin (2026-27):** Already announced, the Rubin architecture will shift to **HBM4** and 3nm process nodes, focusing on reducing the "Power Wall" that is currently limiting data center expansion.
 * **Inference as a Service:** Groq’s model suggests that in the future, we may use GPUs for the 3-month "training" phase but migrate models to specialized LPUs for the 3-year "usage" phase to save  on electricity costs.
 
-**Would you like me to compare the cost-per-token of these chips, or perhaps explain how the new FP4 precision in Blackwell actually works without losing accuracy?**
+
