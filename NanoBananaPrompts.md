@@ -1,5 +1,5 @@
-### Nana Banana Promtps 
-# CATEGORY 1: RELATIONSHIP & LOVE (30 Prompts)
+# Nana Banana Promtps 
+## CATEGORY 1: RELATIONSHIP & LOVE (30 Prompts)
 001. The Perfect Proposal
 Prompt: "Generate an ultra-realistic cinematic photo of a romantic proposal on a Santorini cliffside at sunset. A stylish young man (use uploaded reference photo) is down on one knee on white-washed steps overlooking the blue Aegean Sea, holding open a Tiffany blue ring box with a sparkling diamond ring. His face shows genuine emotion - face, skin tone, and hairstyle exactly as in reference photo. A beautiful woman in a flowing white dress stands before him, hands covering her face in shock, tears streaming down. White buildings with blue domes in background, bougainvillea flowers frame the scene. Golden hour lighting with pink and orange skies reflecting on water. Rose petals scattered on steps. Shot with 85mm lens at f/1.4, cinematic romantic color grading."
 002. First Dance as Married Couple
@@ -60,7 +60,7 @@ Prompt: "Ultra realistic candid kitchen scene of young man (use uploaded referen
 Prompt: "Photorealistic moment capturing young man (reference photo) and girlfriend's New Year's midnight kiss in Times Square NYC, surrounded by confetti falling, crowds celebrating, illuminated ball drop sign visible. They're in tight embrace, kissing as clock strikes midnight, confetti in hair and on shoulders. Warm winter coats, festive atmosphere, other couples and people celebrating around them in blur. Shot with 35mm lens, mixed lighting from screens and celebration lights, vibrant color grading with emphasis on gold confetti, bokeh effect on background crowd, frozen moment of new beginning together, celebratory romance."
 030. Lazy Sunday Morning in Bed
 Prompt: "Generate intimate photo of couple (use my face exactly as in uploaded photo for male) still in bed on Sunday morning, both on laptops/phones, coffee mugs on nightstands, sunlight streaming through window. Messy sheets, pillows everywhere, completely comfortable and relaxed. She has legs across his lap, he's scrolling phone, she's on laptop. Cat sleeping at foot of bed. Plants on windowsill, minimal modern bedroom. Perfect lazy morning vibe. Shot with 35mm lens at f/2.0, soft natural morning window light, warm color grading, intimate domestic life moment, real relationship comfort shown, lifestyle photography aesthetic."
-CATEGORY 2: SUCCESS & WEALTH (30 Prompts)
+## CATEGORY 2: SUCCESS & WEALTH (30 Prompts)
 031. First Million Dollar Check
 Prompt: "Ultra realistic photo of young entrepreneur (use reference photo - exact features) in modern office holding up large ceremonial check made out to himself for $1,000,000, with huge genuine smile and tears of joy. Wear sharp business casual - fitted button-down, nice jeans, luxury watch visible. Modern startup office with team celebrating in background, confetti, champagne bottles. Motivational quotes on walls, sleek furniture. Natural office lighting mixed with camera flash. Shot with 35mm lens, bright energetic color grading, sharp focus on check and expression, team celebrating blurred background, captured moment dreams became reality, ultimate success milestone."
 032. Penthouse Office City View
@@ -121,7 +121,7 @@ Prompt: "Create a nano-banana model showing luxury lifestyle moment. Young man (
 Prompt: "Ultra realistic photo of a (as in reference) signing major brand partnership contract at luxury brand headquarters, executives present, photographer capturing moment. Wear smart casual influencer style. Brand products and logos visible. Celebratory atmosphere. Shot with 35mm lens, bright corporate lighting, clean professional color grading, content creator success, brand partnership achievement, influencer business visualization."
 060. Home Office Setup YouTube Studio
 Prompt: "Photorealistic image featuring [use uploaded image of the user] in professional YouTube studio home office with multiple cameras, ring lights, green screen, editing setup. Sit in gaming chair, facing camera making content. Walls with neon signs, achievement plaques, subscriber milestones. Wear casual creator style - hoodie, headphones. Shot with 24mm lens, dramatic key lighting and fill setup, vibrant color grading, content creator success, digital entrepreneur space, YouTube money visualization."
-CATEGORY 3: FAMILY & EMOTIONAL (25 Prompts)
+## CATEGORY 3: FAMILY & EMOTIONAL (25 Prompts)
 061. Giving Mom Keys to New House
 Prompt: "Ultra realistic emotional photo of young man (use reference photo - exact features) standing with elderly mother in front of beautiful suburban house with 'SOLD' sign, placing house keys in her hands. She's crying happy tears, hand over heart, he has arm around her shoulder with proud smile. Wear smart casual. Well-maintained house, flower garden, white picket fence. Golden hour lighting creates warm emotional glow. Shot with 35mm lens, natural soft lighting, warm color grading emphasizing emotional tones, captured life-changing moment, giving back to parents, family success milestone visualization."
 062. Dad's First Business Class Flight
@@ -172,7 +172,7 @@ Prompt: "Ultra realistic photo of a (as in reference) with family cutting ribbon
 Prompt: "Photorealistic image featuring [use uploaded image of the user] with parents at Mecca during Hajj or at significant religious/cultural site they've dreamed of visiting. Traditional/religious attire, emotional spiritual moment. Iconic religious architecture in background. Shot with 35mm lens, natural lighting, respectful color grading, fulfilled lifetime dream, religious devotion, honoring parents' wishes visualization."
 085. Family Holiday Card Photo Shoot
 Prompt: "Generate image depicting coordinated family (use my face exactly for me) in matching holiday sweaters/outfits for Christmas card photo. Fun poses, Christmas decorations, tree in background. Everyone smiling genuinely. Shot with 35mm lens, warm holiday lighting, festive color grading with reds and greens, family traditions, holiday joy, togetherness visualization."
-CATEGORY 4: TRANSFORMATION & MOTIVATION (25 Prompts)
+## CATEGORY 4: TRANSFORMATION & MOTIVATION (25 Prompts)
 086. 2-Year Body Transformation Split
 Prompt: "Ultra realistic dramatic side-by-side comparison photo. LEFT: Young man (use reference photo - exact features) overweight, looking unmotivated in baggy clothes, poor posture, in dimly lit room. RIGHT: Same person completely shredded, six-pack abs, muscular, confident shirtless pose in bright gym, athletic shorts. Same mirror, same location proving real transformation. 'BEFORE: JANUARY 2023' vs 'AFTER: JANUARY 2025' text. Shot showing dramatic contrast in body, lighting, energy. Motivational transformation visualization."
 087. From Sleeping in Car to Penthouse
