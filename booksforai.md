@@ -11,12 +11,15 @@
 10. The AI-Savvy Leader: Nine Ways to Take Back Control and Make AI Work by David De Cremer
 
 ### Others
-[Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
+* [Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
 AI 2041: Ten Visions for Our Future by Kai-Fu Lee, Chen Qiufan AI 2041：
 預見10個未來新世界 AI趨勢專家李開復 × 全球華語科幻星雲獎得主陳楸帆
 聯手創作20年後的美麗AI新世界
 李開復40年的AI專業經驗 + 科幻小說家陳楸帆的無邊想像
 秉持以人為本的態度，懷抱人類獨具的智慧，貼近技術的未來
+
+* [Code for Machine Learning for Algorithmic Trading, 2nd edition](https://github.com/sarwarbeing-ai/machine-learning-for-trading)
+* [Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems by Antonio Gulli](https://t.co/Z0o9640oSw)
 
 ### Top10 AI Influencer
 10 top AI Influencer https://topaiinfluencers.io/
