@@ -122,3 +122,53 @@ Prompt:
     "noise": "minimal to none" Ratio 3.4
   }
 }
+
+# Nano Banana Pro via Higgsfield AI
+Prompt:
+{
+  "prompt": "Portrait photography from above, Ana de Armas with long brown shoulder length ponytail hair, looking up directly at camera, both hands resting resting kneels, sitting or kneeling on concrete walk of fame in los angeles, wearing a white off-shoulder sleeveless top with ruffle details on sleeves with V deep necklace, natural freckles scattered across face nose and forehead, light brown eyes with long dark eyelashes, red mauve lips, multiple gold and diamonds rings on fingers, small gold hoop earrings, gold chain with stone ruby necklace, fair skin with sun freckles, soft natural golden hour sunlight creating diagonal shadow on pavement, outdoor sidewalk setting, intimate close-up portrait, looking up at camera with soft neutral expression, iPhone style portrait photography, warm afternoon lighting",
+  "negative_prompt": "indoor, studio lighting, heavy makeup, dark hair, side angle, full body, harsh shadows",
+  "style": "natural portrait photography, golden hour outdoor, intimate close-up, social media aesthetic",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "smartphone portrait or mirrorless camera",
+    "angle": "high overhead angle looking down at subject looking up",
+    "framing": "close-up portrait, head shoulders and hands visible"
+  },
+  "lighting": {
+    "type": "natural golden hour sunlight",
+    "quality": "warm soft afternoon sun, diagonal light creating gentle shadow on concrete",
+    "atmosphere": "warm outdoor natural light, intimate mood"
+  },
+  "mood": "intimate, soft, natural, candid, warm, gentle",
+  "color_palette": "long straight black, purple clothing, gold jewelry accents, warm skin tones, grey concrete, natural freckle tones",
+  "subject_features": {
+    "hair": "long black straight  shoulder length, soft waves, middle parted, natural texture",
+    "skin": "fair with natural freckles across nose cheeks and forehead, sun-kissed",
+    "eyes": "light blue, large, looking directly up at camera, long dark lashes",
+    "lips": "red mauve, soft full shape",
+    "eyebrows": "natural dark brown, well groomed",
+    "expression": "soft neutral, intimate, slightly pouty, direct eye contact",
+    "freckles": "natural scattered freckles prominent across nose bridge, cheeks, forehead"
+  },
+  "accessories": {
+    "piercings": "small silver hoop on belly",
+    "earrings": "small diamond spirals hoop earrings",
+    "rings": "multiple gold and diamonds stacking rings on both hands fingers",
+    "necklace": "delicate gold chain necklace with skull pendant"
+  },
+  "wardrobe": {
+    "top": "white off-shoulder sleeveless top, ribbed texture, ruffle frill details on sleeve cuffs, bare shoulders exposed,"
+"bottom": "short denim miniskirt,"
+  },
+  "pose": {
+    "position": "sitting or kneeling on ground of walk of fame in los angeles with gold star vip on the ground",
+    "hands": "both resting on kneels",
+    "gaze": "looking straight up at camera above"
+  },
+  "setting": {
+    "location": "outdoor walk of fame in los angeles",
+    "background": "gold star on charcoal-colored terrazzo     with diagonal sunlight shadow",
+    "time": "golden hour, late afternoon"
+  }
+}
