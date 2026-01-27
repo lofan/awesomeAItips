@@ -13,6 +13,21 @@ Green foliage hangs from the upper frame, casting dappled, irregular shadows on 
 
 Fashion-editorial vibes
 
+# Beack look 2
+A young Korean girl stands centrally in a candid, outdoor snapshot that evokes the raw aesthetic of a high-quality smartphone camera. She wears a textured, black baseball cap with 'F*K' logo on it. Her long, blonde hair falls naturally over her shoulders, framing a face characterized by natural skin texture and faint sun-kissed pigmentation.
+
+She is dressed in a strapless bandeau swim top featuring a blue and white polka-dot pattern, knotted at the center of her chest. Her bikini bottoms are a lace pink with side ties resting on her hips (slim waist).
+
+Her skin shows a deep, bronzed tan that contrasts with distinct, lighter tan lines visible on her upper chest and shoulders, revealing the outline of previous swimwear straps. The sunlight highlights the natural texture of her skin, accentuating fine arm hair and the subtle sheen of heat, while emphasizing her toned midsection.
+
+A large, woven straw tote bag hangs from her right shoulder, appearing filled with a dark towel or garment. Her left wrist is adorned with a layered metallic bracelet that catches the daylight.
+
+She stands on a rough, paved surface marked with a patch of faded yellow paint, watching in camera. Behind her to the left, a white wall or utility box is heavily marked with black graffiti tags “KEORUNREAL” adding a gritty urban texture to the scene. To her right, the front bumper and headlight of a red Porsche 911 with black alloy wheels are partially visible, reflecting the harsh midday sun.
+
+Green foliage hangs from the upper frame, casting dappled, irregular shadows on the background structures. The lighting is direct and unsoftened, creating strong contrast and authentic shadows typical of a casual vacation photo. The image quality retains a natural grain, avoiding the artificial smoothness of studio photography.
+
+Fashion-editorial vibes
+
 # Lie on bed
 
 Yaseen Khan Gul
