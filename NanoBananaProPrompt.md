@@ -169,3 +169,113 @@ Prompt:
     "time": "golden hour, late afternoon"
   }
 }
+
+# Let's close the day with glamour and beauty! Good night, sleep well💫
+
+XXX Stars night vibes ❤
+
+Nano Banana Pro via Hailuo AI
+Prompt:
+
+{
+  "request": {
+    "image_properties": {
+      "dimensions": {
+        "aspect_ratio": {
+          "width": 9,
+          "height": 16
+        },
+        "resolution": "8k"
+      },
+      "quality": {
+        "type": "ultra-high-resolution",
+        "focus": {
+          "sharpness": "extremely sharp focus on the subject's heels and legs",
+          "depth_of_field": "shallow depth of field with blurred foreground"
+        },
+        "details": "ultra-realistic, photorealistic image"
+      }
+    },
+    "subject_details": {
+      "reference_person": {
+        "name": "Sydney Sweeney",
+        "physical_changes": {
+          "body_ratio": "3.4",
+          "hair_color": "blonde"
+        },
+        "image_reference": "uploaded_image"
+      },
+      "appearance": {
+        "hair": {
+          "length": "long",
+          "texture": "voluminous waves",
+          "color": "blonde",
+          "finish": "smooth and shiny"
+        },
+        "makeup": {
+          "style": "soft-glam",
+          "features": [
+            "winged eyeliner",
+            "matte mauve lips"
+          ]
+        },
+        "outfit": {
+          "type": "dress",
+          "style": "latex",
+          "fit": "form-fitting",
+          "neckline": "deep v-neck",
+          "length": "mini",
+          "color": "red electric"
+        }
+      }
+    },
+    "pose_details": {
+      "style": "sexier",
+      "gesture": {
+        "action":"watching below to the camera, hands resting on waistline",
+        "details": "seductive yet classy"
+      },
+      "body_position": {
+        "angle": "low angle worm's eye with perspective on her high heels to accentuate curves and toned legs",
+        "expression": "confident, alluring"
+      }
+    },
+    "background_and_effects": {
+      "background": "none",
+      "focus_effects": {
+        "depth_of_field": "shallow",
+        "foreground_hand": "blurred"
+      }
+    },
+    "environment": {
+      "location": "luxury modern interior",
+      "time_of_day": "night",
+      "lighting": {
+        "overhead": {
+          "type": "circular recessed ceiling light",
+          "details": "crystal chandelier"
+        },
+        "accent": {
+          "type": "vertical warm golden wall slats",
+          "effect": "ambient, soft glow"
+        }
+      },
+      "aesthetic": {
+        "mood": "elegant",
+        "atmosphere": "chic, sophisticated, with a touch of opulence",
+        "visual_effects": [
+          "soft bokeh",
+          "highlighted features"
+        ]
+      }
+    },
+    "photography_style": {
+      "focus_type": "sharp focus on high heels and legs",
+      "lighting_effects": [
+        "face and dress illuminated with soft shadows",
+        "background softly blurred for focus on subject"
+      ],
+      "visual_style": "photorealistic, high-fidelity details"
+    }
+  }
+}
