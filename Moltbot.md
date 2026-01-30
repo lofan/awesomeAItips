@@ -4,6 +4,7 @@
 * [Clawdbot renamed Moltbot](https://clawd.bot/)
 * [燒錢 + 私隱危機！Moltbot (Clawdbot) 實測：點解有人買 12 部 Mac Mini 玩佢？](https://www.youtube.com/watch?v=u0i65fNsl3U)
 * [5分钟上手Clawdbot！风靡硅谷的开源AI神器，到底怎么玩？](https://www.youtube.com/watch?v=u0i65fNsl3U)
+* [Shodan results](https://www.shodan.io/search?query=moltbot)
 
 定位：它是一款真正意義上的 AI Assistant (AI 助手)，不僅能回答問題，還能主動在你的電腦上執行任務
 三大核心特色：
