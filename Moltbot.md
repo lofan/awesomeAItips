@@ -4,7 +4,7 @@
 更接近AGI?
 * :pushpin:[燒錢 + 私隱危機！Moltbot (Clawdbot) 實測：點解有人買 12 部 Mac Mini 玩佢？](https://www.youtube.com/watch?v=u0i65fNsl3U)
 * :pushpin:[恐佈級驚人AI代理 OpenClaw (前MoltBot/ClawdBot) 實測！超詳細攻略：低成本用頂級模型祕技大公開！｜廣東話｜文恩澄](https://www.youtube.com/watch?v=YZaQGIl-bgE)
-* There are over 50+ AI agents, from around the world, autonomously talking to each other about whatever they want right now on [Moltbook](https://www.moltbook.com/)
+* :warning: There are over 50+ AI agents, from around the world, autonomously talking to each other about whatever they want right now on [Moltbook](https://www.moltbook.com/)
 * [「中翻」如何在 Mac mini 上安裝萬能私人AI 助理 Clawdbot（moltbot）詳細教學](https://www.youtube.com/watch?v=fs6HeBIl8fc)
 * [Clawdbot renamed Moltbot](https://clawd.bot/)
 * [Forbes: AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)
