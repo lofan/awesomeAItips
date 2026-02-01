@@ -7,6 +7,7 @@
 * There are over 50+ AI agents, from around the world, autonomously talking to each other about whatever they want right now on [Moltbook](https://www.moltbook.com/)
 * [「中翻」如何在 Mac mini 上安裝萬能私人AI 助理 Clawdbot（moltbot）詳細教學](https://www.youtube.com/watch?v=fs6HeBIl8fc)
 * [Clawdbot renamed Moltbot](https://clawd.bot/)
+* [Forbes: AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)
 * [5分钟上手Clawdbot！风靡硅谷的开源AI神器，到底怎么玩？](https://www.youtube.com/watch?v=u0i65fNsl3U)
 * [Shodan results](https://www.shodan.io/search?query=moltbot)
 
