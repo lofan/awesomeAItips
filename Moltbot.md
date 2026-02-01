@@ -45,3 +45,5 @@
 環境隔離：建議在獨立的環境（如 Docker 或 專用電腦）運行 。
 審查代碼：對於社群開發的 Skill，建議進行 Code Review。
 設置審核：在執行任何動作前，設定需要人工審核 (Manual Review) 以確保安全。
+
+![Framework](res/moltbot%20framework.jpg)
