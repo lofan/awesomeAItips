@@ -10,6 +10,7 @@
 * [Forbes: AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)
 * [5分钟上手Clawdbot！风靡硅谷的开源AI神器，到底怎么玩？](https://www.youtube.com/watch?v=u0i65fNsl3U)
 * [Shodan results](https://www.shodan.io/search?query=moltbot)
+* [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 
 **定位：它是一款強大的 AI 代理（AI Agent），而不僅僅是聊天回答問題，還能主動在你的電腦上執行任務**
 
