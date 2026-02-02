@@ -9,6 +9,7 @@
 * [Clawdbot renamed Moltbot](https://clawd.bot/)
 * [Forbes: AI Agents Created Their Own Religion, Crustafarianism, On An Agent-Only Social Network](https://www.forbes.com/sites/johnkoetsier/2026/01/30/ai-agents-created-their-own-religion-crustafarianism-on-an-agent-only-social-network/)
 * [5分钟上手Clawdbot！风靡硅谷的开源AI神器，到底怎么玩？](https://www.youtube.com/watch?v=u0i65fNsl3U)
+* [Clawdbot for Humans: The Step-by-Step Guide to Setting Up the AI Assistant That Actually Works](https://www.amazon.com/dp/B0GKBH4D7C/)  a practical guide to setting up your own AI assistant—without the hype, jargon, or wasted weekends.
 * [Shodan results](https://www.shodan.io/search?query=moltbot)
 * [Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware](https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html)
 
