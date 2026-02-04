@@ -7,3 +7,4 @@ Record and libraries
 * [ChatGPT Alternative](ChatGPTAlt.md) 
 * [Making Video](tovideo.md)
 * [Learning Resources](LearningRes.md)
+* [Books for AI Learning](booksforai.md)
