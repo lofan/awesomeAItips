@@ -1,4 +1,5 @@
 #DreamCapsule
+<video src='dc1.mp4' width=180/>
 * Prompt 1  {
   "title": "Above the World · Dream Capsule",
   "duration": "8s",
