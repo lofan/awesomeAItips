@@ -1,6 +1,9 @@
 #DreamCapsule
 
-
+<video controls width="640">
+    <source src="[YOUR_RAW_VIDEO_URL.mp4](https://github.com/lofan/awesomeAItips/blob/main/DC1.mp4)" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 * Prompt 1  {
   "title": "Above the World · Dream Capsule",
