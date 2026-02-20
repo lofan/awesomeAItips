@@ -1,6 +1,10 @@
 #DreamCapsule
 
-[Above the World · Dream Capsule](https://github.com/lofan/awesomeAItips/blob/main/DC1.mp4)
+
+
+https://github.com/user-attachments/assets/135703cb-e059-4f0e-9469-f23855025f93
+
+
 
 * Prompt 1  {
   "title": "Above the World · Dream Capsule",
