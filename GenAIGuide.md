@@ -1,4 +1,8 @@
 The Generative AI Guide
+
+<img width="864" height="1184" alt="The Generative AI Guide" src="https://github.com/user-attachments/assets/af43664c-98ed-4d3f-a9d8-59058678f09a" />
+
+
 Based on the infographic provided, here are the items categorized into the four requested sections:
 
 1. GenAI Technologies
