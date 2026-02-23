@@ -5,6 +5,9 @@ Powerful AI now runs on consumer hardware. The models covered here work on stand
 This guide covers seven practical small language models, ranked by use case fit rather than benchmark scores. Each has proven itself in real deployments, and all can run on hardware you likely already own.
 Note: Small models ship frequent revisions (new weights, new context limits, new tags). This article focuses on which model family to choose; check the official model card/[Ollama](https://ollama.com/) page for the current variant, license terms, and context configuration before deploying.
 
+<img width="1344" height="768" alt="7 top small LLM run on Laptop" src="https://github.com/user-attachments/assets/16d086a1-643b-459b-a3b4-2731f79cec0f" />
+
+
 #1. Phi-3.5 Mini (3.8B Parameters)
 Microsoft’s Phi-3.5 Mini is a top choice for developers building retrieval-augmented generation (RAG) systems on local hardware. Released in August 2024, it is widely used for applications that need to process long documents without cloud API calls.
 
