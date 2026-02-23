@@ -13,25 +13,27 @@ Microsoft’s Phi-3.5 Mini is a top choice for developers building retrieval-aug
 
 Long-context capability in a small footprint. Phi-3.5 Mini handles very long inputs (book-length prompts depending on the variant/runtime), which makes it a strong fit for RAG and document-heavy workflows. Many 7B models max out at much shorter default contexts. Some packaged variants (including the default phi3.5 tags in Ollama’s library) use shorter context by default — verify the specific variant/settings before relying on maximum context.
 
-*Best for: Long-context reasoning (reading PDFs, technical documentation) · Code generation and debugging · RAG applications where you need to reference large amounts of text · Multilingual tasks
-*Hardware: Quantized (4-bit) requires 6-10GB RAM for typical prompts (more for very long context) · Full precision (16-bit) requires 16GB RAM · 
-*Recommended: Any modern laptop with 16GB RAM
-*Download / Run locally: Get the official Phi-3.5 Mini Instruct weights from [Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) (microsoft/Phi-3.5-mini-instruct) and follow the model card for the recommended runtime. If you use Ollama, pull the Phi 3.5 family model and verify the variant/settings on the Ollama model page before relying on maximum context. (ollama pull phi3.5)
+* Best for: Long-context reasoning (reading PDFs, technical documentation) · Code generation and debugging · RAG applications where you need to reference large amounts of text · Multilingual tasks
+* Hardware: Quantized (4-bit) requires 6-10GB RAM for typical prompts (more for very long context) · Full precision (16-bit) requires 16GB RAM · 
+* Recommended: Any modern laptop with 16GB RAM
+* Download / Run locally: Get the official Phi-3.5 Mini Instruct weights from [Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) (microsoft/Phi-3.5-mini-instruct) and follow the model card for the recommended runtime. If you use Ollama, pull the Phi 3.5 family model and verify the variant/settings on the Ollama model page before relying on maximum context. (ollama pull phi3.5)
 
 # 2. Llama 3.2 3B
 Meta’s Llama 3.2 3B is the all-rounder. It handles general instruction-following well, fine-tunes easily, and runs fast enough for interactive applications. If you’re unsure which model to start with, start here.
 Balance. It’s not the best at any single task, but it’s good enough at everything. Meta supports 8 languages (English, German, French, Italian, Portuguese, Hindi, Spanish, Thai), with training data covering more. Strong instruction-following makes it versatile.
-Best for: General chat and Q&A · Document summarization · Text classification · Customer support automation
-Hardware: Quantized (4-bit) requires 6GB RAM · Full precision (16-bit) requires 12GB RAM · Recommended: 8GB RAM minimum for smooth performance
-Download / Run locally: Available on [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) under the meta-llama org (Llama 3.2 3B Instruct). You’ll need to accept Meta’s license terms (and may need authentication depending on your tooling). For Ollama, pull the 3B tag: ollama pull llama3.2:3b.
+* Best for: General chat and Q&A · Document summarization · Text classification · Customer support automation
+* Hardware: Quantized (4-bit) requires 6GB RAM · Full precision (16-bit) requires 12GB RAM ·
+* Recommended: 8GB RAM minimum for smooth performance
+* Download / Run locally: Available on [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) under the meta-llama org (Llama 3.2 3B Instruct). You’ll need to accept Meta’s license terms (and may need authentication depending on your tooling). For Ollama, pull the 3B tag: ollama pull llama3.2:3b.
 
 
 # 3. Llama 3.2 1B
 The 1B version trades some capability for extreme efficiency. This is the model you deploy when you need AI on mobile devices, edge servers, or any environment where resources are tight.
 It can run on phones. A quantized 1B model fits in 2-3GB of memory, making it practical for on-device inference where privacy or network connectivity matters. Real-world performance depends on your runtime and device thermals, but high-end smartphones can handle it.
-Best for: Simple classification tasks · Basic Q&A on narrow domains · Log analysis and data extraction · Mobile and IoT deployment
-Hardware: Quantized (4-bit) requires 2-4GB RAM · Full precision (16-bit) requires 4-6GB RAM · Recommended: Can run on high-end smartphones
-Download / Run locally: Available on [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) under the meta-llama org (Llama 3.2 1B Instruct). License acceptance/authentication may be required for download. For Ollama: ollama pull llama3.2:1b
+* Best for: Simple classification tasks · Basic Q&A on narrow domains · Log analysis and data extraction · Mobile and IoT deployment
+* Hardware: Quantized (4-bit) requires 2-4GB RAM · Full precision (16-bit) requires 4-6GB RAM ·
+* Recommended: Can run on high-end smartphones
+* Download / Run locally: Available on [Hugging Face](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) under the meta-llama org (Llama 3.2 1B Instruct). License acceptance/authentication may be required for download. For Ollama: ollama pull llama3.2:1b
 
 
 # 4. Ministral 3 8B
