@@ -47,25 +47,28 @@ Download / Run locally: The “Ministral” family has multiple releases with di
 
 # 5. Qwen 2.5 7B
 Alibaba’s Qwen 2.5 7B dominates coding and mathematical reasoning benchmarks. If your use case involves code generation, data analysis, or solving math problems, this model outperforms competitors in its size class.
-Domain specialization. Qwen was trained with heavy emphasis on code and technical content. It understands programming patterns, can debug code, and generates working solutions more reliably than general-purpose models.
-Best for: Code generation and completion · Mathematical reasoning · Technical documentation · Multilingual tasks (especially Chinese/English)
-Hardware: Quantized (4-bit) requires 8GB RAM · Full precision (16-bit) requires 16GB RAM · Recommended: 12GB RAM for best performance
-Download / Run locally: Available on [Hugging Face](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) under the Qwen org (Qwen 2.5 7B Instruct). For Ollama, pull the instruct-tagged variant: ollama pull qwen2.5:7b-instruct.
+* Domain specialization. Qwen was trained with heavy emphasis on code and technical content. It understands programming patterns, can debug code, and generates working solutions more reliably than general-purpose models.
+* Best for: Code generation and completion · Mathematical reasoning · Technical documentation · Multilingual tasks (especially Chinese/English)
+* Hardware: Quantized (4-bit) requires 8GB RAM · Full precision (16-bit) requires 16GB RAM ·
+* Recommended: 12GB RAM for best performance
+* Download / Run locally: Available on [Hugging Face](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) under the Qwen org (Qwen 2.5 7B Instruct). For Ollama, pull the instruct-tagged variant: ollama pull qwen2.5:7b-instruct.
 
 
 # 6. Gemma 2 9B
 Google’s Gemma 2 9B pushes the boundary of what qualifies as “small.” At 9B parameters, it’s the heaviest model on this list, but it is competitive with 13B-class models on many benchmarks. Use this when you need the best quality your laptop can handle.
 Safety and instruction-following. Gemma 2 was trained with extensive safety filtering and alignment work. It refuses harmful requests more reliably than other models and follows complex, multi-step instructions accurately.
-Best for: Complex instruction-following · Tasks requiring careful safety handling · General knowledge Q&A · Content moderation
-Hardware: Quantized (4-bit) requires 12GB RAM · Full precision (16-bit) requires 24GB RAM · Recommended: 16GB+ RAM for production use
-Download / Run locally: Available on [Hugging Face](https://huggingface.co/google/gemma-2-9b-it) under the google org (Gemma 2 9B IT). You’ll need to accept Google’s license terms (and may need authentication depending on your tooling). For Ollama: ollama pull gemma2:9b-instruct-*. Ollama provides both base and instruct tags. Pick the one that matches your use case.
+* Best for: Complex instruction-following · Tasks requiring careful safety handling · General knowledge Q&A · Content moderation
+* Hardware: Quantized (4-bit) requires 12GB RAM · Full precision (16-bit) requires 24GB RAM ·
+* Recommended: 16GB+ RAM for production use
+* Download / Run locally: Available on [Hugging Face](https://huggingface.co/google/gemma-2-9b-it) under the google org (Gemma 2 9B IT). You’ll need to accept Google’s license terms (and may need authentication depending on your tooling). For Ollama: ollama pull gemma2:9b-instruct-*. Ollama provides both base and instruct tags. Pick the one that matches your use case.
 
 # 7. SmolLM2 1.7B
 Hugging Face’s SmolLM2 is one of the smallest models here, designed for rapid experimentation and learning. It’s not production-ready for complex tasks, but it’s perfect for prototyping, testing pipelines, and understanding how small models behave.
 Speed and accessibility. SmolLM2 runs in seconds, making it ideal for rapid iteration during development. Use it to test your fine-tuning pipeline before scaling to larger models.
-Best for: Rapid prototyping · Learning and experimentation · Simple NLP tasks (sentiment analysis, categorization) · Educational projects
-Hardware: Quantized (4-bit) requires 4GB RAM · Full precision (16-bit) requires 6GB RAM · Recommended: Runs on any modern laptop
-Download / Run locally: Available on [Hugging Face](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) under HuggingFaceTB (SmolLM2 1.7B Instruct). For Ollama: ollama pull smollm2.
+* Best for: Rapid prototyping · Learning and experimentation · Simple NLP tasks (sentiment analysis, categorization) · Educational projects
+* Hardware: Quantized (4-bit) requires 4GB RAM · Full precision (16-bit) requires 6GB RAM ·
+* Recommended: Runs on any modern laptop
+* Download / Run locally: Available on [Hugging Face](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) under HuggingFaceTB (SmolLM2 1.7B Instruct). For Ollama: ollama pull smollm2.
 
 ## Choosing Your Local Model
 
@@ -98,4 +101,4 @@ While hardware barriers have dropped, there are a few technical "rules of the ro
 
 The best way to find your perfect match is through hands-on testing. Pick a model from the list above, spend an afternoon running it against your actual data, and see how it performs on your machine.
 
-**Would you like me to help you find the specific `llama.cpp` commands or Ollama tags for one of these models?**
+
