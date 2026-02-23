@@ -9,7 +9,7 @@ Note: Small models ship frequent revisions (new weights, new context limits, new
 
 
 # 1. Phi-3.5 Mini (3.8B Parameters)
-Microsoft’s Phi-3.5 Mini is a top choice for developers building retrieval-augmented generation (RAG) systems on local hardware. Released in August 2024, it is widely used for applications that need to process long documents without cloud API calls.
+[Microsoft’s Phi-3.5 Mini](https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/) is a top choice for developers building retrieval-augmented generation (RAG) systems on local hardware. Released in August 2024, it is widely used for applications that need to process long documents without cloud API calls.
 
 Long-context capability in a small footprint. Phi-3.5 Mini handles very long inputs (book-length prompts depending on the variant/runtime), which makes it a strong fit for RAG and document-heavy workflows. Many 7B models max out at much shorter default contexts. Some packaged variants (including the default phi3.5 tags in Ollama’s library) use shorter context by default — verify the specific variant/settings before relying on maximum context.
 
@@ -19,7 +19,7 @@ Long-context capability in a small footprint. Phi-3.5 Mini handles very long inp
 * Download / Run locally: Get the official Phi-3.5 Mini Instruct weights from [Hugging Face](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) (microsoft/Phi-3.5-mini-instruct) and follow the model card for the recommended runtime. If you use Ollama, pull the Phi 3.5 family model and verify the variant/settings on the Ollama model page before relying on maximum context. (ollama pull phi3.5)
 
 # 2. Llama 3.2 3B
-Meta’s Llama 3.2 3B is the all-rounder. It handles general instruction-following well, fine-tunes easily, and runs fast enough for interactive applications. If you’re unsure which model to start with, start here.
+[Meta’s Llama 3.2 3B](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) is the all-rounder. It handles general instruction-following well, fine-tunes easily, and runs fast enough for interactive applications. If you’re unsure which model to start with, start here.
 Balance. It’s not the best at any single task, but it’s good enough at everything. Meta supports 8 languages (English, German, French, Italian, Portuguese, Hindi, Spanish, Thai), with training data covering more. Strong instruction-following makes it versatile.
 * Best for: General chat and Q&A · Document summarization · Text classification · Customer support automation
 * Hardware: Quantized (4-bit) requires 6GB RAM · Full precision (16-bit) requires 12GB RAM ·
@@ -37,7 +37,7 @@ It can run on phones. A quantized 1B model fits in 2-3GB of memory, making it pr
 
 
 # 4. Ministral 3 8B
-Mistral AI released Ministral 3 8B as their edge model, designed for deployments where you need maximum performance in minimal space. It is competitive with larger 13B-class models on practical tasks while staying efficient enough for laptops.
+[Mistral AI released Ministral 3 8B](https://docs.mistral.ai/models/ministral-3-8b-25-12) as their edge model, designed for deployments where you need maximum performance in minimal space. It is competitive with larger 13B-class models on practical tasks while staying efficient enough for laptops.
 Strong efficiency for edge deployments. The Ministral line is tuned to deliver high quality at low latency on consumer hardware, making it a practical “production small model” option when you want more capability than 3B-class models. It uses grouped-query attention and other optimizations to deliver strong performance at 8B parameter count.
 Best for: Complex reasoning tasks · Multi-turn conversations · Code generation · Tasks requiring nuanced understanding
 Hardware: Quantized (4-bit) requires 10GB RAM · Full precision (16-bit) requires 20GB RAM · Recommended: 16GB RAM for comfortable use
@@ -46,7 +46,7 @@ Download / Run locally: The “Ministral” family has multiple releases with di
 
 
 # 5. Qwen 2.5 7B
-Alibaba’s Qwen 2.5 7B dominates coding and mathematical reasoning benchmarks. If your use case involves code generation, data analysis, or solving math problems, this model outperforms competitors in its size class.
+[Alibaba’s Qwen 2.5 7B](https://www.alibabacloud.com/blog/qwen2-5-coder-series-powerful-diverse-practical_601765) dominates coding and mathematical reasoning benchmarks. If your use case involves code generation, data analysis, or solving math problems, this model outperforms competitors in its size class.
 * Domain specialization. Qwen was trained with heavy emphasis on code and technical content. It understands programming patterns, can debug code, and generates working solutions more reliably than general-purpose models.
 * Best for: Code generation and completion · Mathematical reasoning · Technical documentation · Multilingual tasks (especially Chinese/English)
 * Hardware: Quantized (4-bit) requires 8GB RAM · Full precision (16-bit) requires 16GB RAM ·
@@ -55,7 +55,7 @@ Alibaba’s Qwen 2.5 7B dominates coding and mathematical reasoning benchmarks. 
 
 
 # 6. Gemma 2 9B
-Google’s Gemma 2 9B pushes the boundary of what qualifies as “small.” At 9B parameters, it’s the heaviest model on this list, but it is competitive with 13B-class models on many benchmarks. Use this when you need the best quality your laptop can handle.
+[Google’s Gemma 2 9B](https://ai.google.dev/gemma/docs) pushes the boundary of what qualifies as “small.” At 9B parameters, it’s the heaviest model on this list, but it is competitive with 13B-class models on many benchmarks. Use this when you need the best quality your laptop can handle.
 Safety and instruction-following. Gemma 2 was trained with extensive safety filtering and alignment work. It refuses harmful requests more reliably than other models and follows complex, multi-step instructions accurately.
 * Best for: Complex instruction-following · Tasks requiring careful safety handling · General knowledge Q&A · Content moderation
 * Hardware: Quantized (4-bit) requires 12GB RAM · Full precision (16-bit) requires 24GB RAM ·
