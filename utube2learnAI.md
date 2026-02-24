@@ -1,11 +1,10 @@
-AI & 機器學習必看 TOP10 YouTube 頻道：
+# AI & 機器學習必看 TOP10 YouTube 頻道：
 
-1. [Andrej Karpathy，AI大牛](https:// http://youtube.com/andrejkarpathy)
+1. [Andrej Karpathy AI大牛](http://youtube.com/andrejkarpathy) [Web](https://karpathy.ai/)
 
-2. [sentdex，編程學習](https:// http://youtube.com/@sentdex)
+2. [sentdex 編程學習](http://youtube.com/@sentdex)
 
-3. Sebastian Raschka，機器學習專家
-https:// http://youtube.com/@SebastianRasc
+3. [Sebastian Raschka 機器學習專家](http://youtube.com/@SebastianRasc)
 
 4. Jeremy Howard，深度學習大師
 https:// http://youtube.com/@howardjeremyp
