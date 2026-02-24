@@ -1,6 +1,3 @@
-# AI & 機器學習必看 TOP10 YouTube 頻道：
-
-
 # 🎓 AI & Machine Learning 必看 YouTube 頻道  
 # 🎓 Must-Watch YouTube Channels for AI & Machine Learning
 
