@@ -1,9 +1,9 @@
-#15 PERPLEXITY PROMPTS TO THINK LIKE A RESEARCH ANALYST IN 2026
+#15 PERPLEXITY PROMPTS TO THINK LIKE A RESEARCH ANALYST IN 2026 (Draft)
 
-1 Conduct a deep competitive analysis of the top five companies in my industry. Compare pricing product features positioning and customer sentiment.
-2 Identify the strongest trends currently shaping my industry. Explain who is adopting them why they matter and how they will impact businesses.
-3 Compare three competing tools in my niche. Evaluate cost features integrations user feedback and long term scalability.
-4 Analyze customer reviews forums and online discussions about this product. List the most common complaints feature requests and praised benefits.
+* Market Research - Conduct a deep competitive analysis of the top five companies in my industry. Compare pricing product features positioning and customer sentiment.
+* Identify the strongest trends currently shaping my industry. Explain who is adopting them why they matter and how they will impact businesses.
+* Compare three competing tools in my niche. Evaluate cost features integrations user feedback and long term scalability.
+* Analyze customer reviews forums and online discussions about this product. List the most common complaints feature requests and praised benefits.
 5 Share three real world examples of companies using this strategy or technology. Include clear outcomes metrics and lessons learned.
 6 Summarize the most important insights from this industry report. Highlight key statistics risks opportunities and recommended actions.
 7 Create a step by step roadmap to learn and apply this skill from beginner to practical use. Include resources best practices and common mistakes.
