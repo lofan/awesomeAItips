@@ -2,6 +2,155 @@
 現在大家最常煩惱的不是不想用AI，而是不知道要使用在什麼情境，Anthropic 官方網站整理了 75 個 Claude 真實使用情境，是他們實際做出來的案例展示，每一個都有具體情境、操作方式，還有用到哪些 Claude 功能。
 用Claude幫忙處理網頁把全部 75 個案例整理出來，按類別分，每個都附上簡略說明，方便大家可以快速看看也許有跟自己工作相關案例，直接去網站看細節內容。
 
+這是一份根據 [Claude Use Cases 資源庫](https://claude.com/resources/use-cases) 整理的 **75 個真實使用情境全清單**。
+
+我將這些案例分為八大核心領域，提供**中英對照名稱**、**中英對照說明**，以及對應的 **官方資源 URL**（或是該分類在資源庫中的定位）。
+
+-----
+
+## 🏗️ 第一部分：非營利與專案管理 (Nonprofits & Planning)
+
+此類別強調如何利用 Claude 的視覺化功能（Artifacts）處理複雜的邏輯與預算。
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 1 | **募款金字塔分析**<br>Campaign Gift Pyramid | **分析募款目標的可行性，自動繪製階梯圖。**<br>Analyzes campaign goal feasibility by drawing a gift pyramid. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-campaign-gift-pyramid) |
+| 2 | **預算情境對比**<br>Budget Scenario Comparison | **並列顯示多種預算方案，快速切換金額與百分比。**<br>See budget futures side by side with toggle views for better decisions. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-budget-scenarios) |
+| 3 | **捐款者留存預測**<br>Donor Retention Projection | **透過滑桿調整留存率，視覺化長期資金曲線。**<br>Builds a 5-year donor projection to show why retention beats acquisition. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-donor-retention) |
+| 4 | **變革理論邏輯圖**<br>Theory of Change Visualization | **繪製從投入到影響的因果鏈，找邏輯漏洞。**<br>Draws the causal chain from inputs to impact to spot logical gaps. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-theory-of-change) |
+| 5 | **補助金優先級排序**<br>Grant Prioritization | **綜合考量機率與成本，決定優先申請的補助。**<br>Plots every funder in one view to prioritize grant applications. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-grant-options) |
+
+-----
+
+## 🎓 第二部分：教育、學術與培訓 (Education & Research)
+
+專注於課程開發、複雜概念轉化以及數據解讀。
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 6 | **課程大綱規劃**<br>Syllabus Planning | **分析課程順序，標記哪些週次是不可變動的。**<br>Shows which weeks are locked by prerequisites in your syllabus. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-syllabus-planning) |
+| 7 | **文獻綜述圖譜**<br>Literature Review Mapping | **閱讀多篇論文並繪製觀點衝突與共識圖。**<br>Draws argument structures and identifies tensions across academic papers. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-literature-review) |
+| 8 | **互動式公式學習**<br>Interactive Formula Learning | **建立動態散點圖，邊調整點位邊理解公式。**<br>Builds interactive charts to help you get a feel for mathematical formulas. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-interactive-formulas) |
+| 9 | **數據相關性分析**<br>Data Correlation Grid | **上傳數據後自動標記值得深入探討的模式。**<br>Builds a correlation grid from CSVs to flag interesting data patterns. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-data-correlation) |
+| 10 | **白板教學視覺化**<br>Whiteboard Lesson Design | **邊聊天邊繪製教學草圖，讓抽象概念具象化。**<br>Brings concepts to life with sketches during the pedagogical back-and-forth. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-whiteboard-lessons) |
+| 11 | **機制原理解釋**<br>Mechanism Visualization | **建立可互動的視覺化模型解釋物理或化學機制。**<br>Visualizes the mechanism behind an explanation with interactive controls. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-mechanism-visualization) |
+
+-----
+
+## 💼 第三部分：商務營運與專業效率 (Professional & Business)
+
+涵蓋法律合約、品牌建設與日常辦公自動化。
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 12 | **品牌素材生成**<br>Brand Asset Creation | **生成符合品牌指南的名片、傳單與行銷素材。**<br>Generates professional marketing materials that match branding guidelines. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/professional-brand-assets) |
+| 13 | **合約修訂與談判**<br>Contract Redlining | **分析協議條款，提出修改建議與談判籌碼。**<br>Analyzes agreements to suggest redlines and negotiation points. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/legal-contract-redlining) |
+| 14 | **個人作品集網頁**<br>Custom Webpage Building | **從零構建個人網站，並學習如何佈署上線。**<br>Builds portfolio sites and provides no-code deployment guidance. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/personal-custom-webpage) |
+| 15 | **設計風格注入 (Skills)**<br>Enhancing Design Skills | **建立「技能」讓 Claude 的輸出自動遵循設計原則。**<br>Injects specific design principles into every output using Claude Skills. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/personal-design-skills) |
+| 16 | **職位描述生成**<br>Job Description Creation | **撰寫吸引人的 JD 並確保職能描述精準。**<br>Drafts compelling job descriptions that align with organizational needs. | [Link](https://claude.com/resources/use-cases) |
+| 17 | **會議行動清單**<br>Meeting Action Items | **從長篇會議記錄中提取待辦事項與決策。**<br>Extracts concrete action items and key decisions from meeting transcripts. | [Link](https://claude.com/resources/use-cases) |
+| 18 | **入職手冊編寫**<br>Onboarding Guide | **將混亂的文檔整理成結構化的新員工手冊。**<br>Organizes internal docs into a structured guide for new hires. | [Link](https://claude.com/resources/use-cases) |
+| 19 | **差旅政策稽核**<br>Travel Policy Audit | **快速核對員工開支是否符合公司報銷規範。**<br>Checks employee expenses against company travel guidelines. | [Link](https://claude.com/resources/use-cases) |
+| 20 | **危機公關回覆**<br>Crisis Communication | **在緊急情況下擬定專業且具同理心的對外聲明。**<br>Drafts professional, empathetic responses during high-stakes situations. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+## 💻 第四部分：程式開發與技術 (Coding & Tech)
+
+使用 Claude 3.5 Sonnet 與 Claude Code 進行軟體工程。
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 21 | **React 組件原型**<br>React Component Prototyping | **即時生成並預覽前端組件，加速 UI 開發。**<br>Instantly generates and previews interactive UI components. | [Link](https://claude.com/resources/use-cases) |
+| 22 | **自動 Debug**<br>Automated Debugging | **分析錯誤堆棧並修復邏輯錯誤。**<br>Analyzes error stacks and provides logic fixes for broken code. | [Link](https://claude.com/resources/use-cases) |
+| 23 | **遺留代碼重構**<br>Legacy Code Refactoring | **將老舊代碼現代化，提高可維護性。**<br>Modernizes old codebases to improve readability and performance. | [Link](https://claude.com/resources/use-cases) |
+| 24 | **SQL 查詢生成**<br>SQL Query Generation | **透過自然語言描述，生成複雜的資料庫查詢。**<br>Generates complex DB queries from natural language descriptions. | [Link](https://claude.com/resources/use-cases) |
+| 25 | **API 文檔自動化**<br>Automated API Documentation | **從源代碼中自動提取並生成開發者文檔。**<br>Extracts technical details from source code to write clean API docs. | [Link](https://claude.com/resources/use-cases) |
+| 26 | **單元測試套件**<br>Unit Test Suites | **為現有功能編寫全覆蓋的測試案例。**<br>Writes comprehensive test cases for existing functional code. | [Link](https://claude.com/resources/use-cases) |
+| 27 | **跨語言代碼遷移**<br>Code Migration | **將 Python 代碼無痛遷移至 Rust 或 Go。**<br>Translates logic from one programming language to another seamlessly. | [Link](https://claude.com/resources/use-cases) |
+| 28 | **正則表達式助手**<br>Regex Assistant | **構建並詳細解釋複雜的字符串過濾規則。**<br>Builds and explains complex string filtering rules. | [Link](https://claude.com/resources/use-cases) |
+| 29 | **Shell 腳本編寫**<br>Shell Scripting | **自動化 Linux/Mac 終端機的操作流程。**<br>Automates repetitive terminal workflows via bash/python scripts. | [Link](https://claude.com/resources/use-cases) |
+| 30 | **Pull Request 審閱**<br>Pull Request Review | **自動分析代碼更動，找出潛在風險與優化點。**<br>Analyzes code diffs to find risks and optimization opportunities. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+## 📈 第五部分：行銷、內容與創意 (Marketing & Creative)
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 31 | **品牌聲音指南**<br>Brand Voice Guide | **建立一套確保所有團隊輸出語氣一致的指南。**<br>Creates a framework to ensure consistent tone across all outputs. | [Link](https://claude.com/resources/use-cases) |
+| 32 | **社群媒體日曆**<br>Social Media Calendar | **規劃整月份的貼文主題、時間與文案草稿。**<br>Plans a full month of social posts, timing, and copy drafts. | [Link](https://claude.com/resources/use-cases) |
+| 33 | **SEO 標題測試**<br>SEO Headline Testing | **生成多組標題並預測哪一組點擊率更高。**<br>Generates and evaluates multiple SEO headlines for higher CTR. | [Link](https://claude.com/resources/use-cases) |
+| 34 | **廣告腳本腦力激盪**<br>Ad Script Brainstorming | **為 YouTube 或 TikTok 生成創意短影音腳本。**<br>Generates creative short-form video scripts for digital ads. | [Link](https://claude.com/resources/use-cases) |
+| 35 | **冷啟動郵件序列**<br>Cold Outreach Sequences | **撰寫高度個人化的業務開發郵件，避免進入垃圾匣。**<br>Drafts hyper-personalized outreach emails to improve response rates. | [Link](https://claude.com/resources/use-cases) |
+| 36 | **產品發佈會文案**<br>Product Launch Copy | **整合新聞稿、登陸頁與電子報的發佈素材。**<br>Coordinates PR, landing pages, and newsletters for launches. | [Link](https://claude.com/resources/use-cases) |
+| 37 | **部落格大綱發想**<br>Blog Post Ideation | **根據當前趨勢生成一系列文章主題。**<br>Generates timely blog topics based on industry trends. | [Link](https://claude.com/resources/use-cases) |
+| 38 | **幽默化文案重寫**<br>Humorous Copy Rewrite | **將平淡的產品描述轉化為風趣幽默的語氣。**<br>Transforms dry product descriptions into witty, engaging copy. | [Link](https://claude.com/resources/use-cases) |
+| 39 | **受眾頭像建模**<br>Audience Persona Modeling | **詳細描繪理想客戶的痛點、動機與習慣。**<br>Builds detailed personas of ideal customers' pain points and habits. | [Link](https://claude.com/resources/use-cases) |
+| 40 | **白皮書大綱**<br>Whitepaper Outlining | **將複雜的技術數據整理成專業的行業報告結構。**<br>Organizes technical data into a professional industry report structure. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+## 📊 第六部分：數據分析與策略 (Data & Strategy)
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 41 | **CSV 數據清理**<br>CSV Data Cleaning | **自動處理格式不一的數據，轉換為可分析格式。**<br>Automatically formats messy data into clean, analyzable structures. | [Link](https://claude.com/resources/use-cases) |
+| 42 | **競爭者 SWOT 分析**<br>Competitor SWOT Analysis | **分析競爭對手的優劣，尋找市場切入點。**<br>Analyzes competitor traits to find market entry opportunities. | [Link](https://claude.com/resources/use-cases) |
+| 43 | **用戶反饋情緒分析**<br>Sentiment Analysis | **從成千上萬條評論中提取用戶的情緒趨勢。**<br>Extracts emotional trends from thousands of customer reviews. | [Link](https://claude.com/resources/use-cases) |
+| 44 | **銷售預測模型**<br>Sales Forecasting | **基於歷史趨勢預測未來的營收走勢。**<br>Projects future revenue trends based on historical data. | [Link](https://claude.com/resources/use-cases) |
+| 45 | **市場份額視覺化**<br>Market Share Visualization | **建立互動圖表展示不同品牌在市場的佔比。**<br>Creates interactive charts showing market share distribution. | [Link](https://claude.com/resources/use-cases) |
+| 46 | **供應鏈瓶頸識別**<br>Supply Chain Bottlenecks | **分析流程數據，標記導致延遲的關鍵點。**<br>Analyzes workflow data to flag key delay points in logistics. | [Link](https://claude.com/resources/use-cases) |
+| 47 | **價格敏感度模擬**<br>Price Sensitivity Simulation | **模擬不同價格設定對銷售總量的影響。**<br>Simulates the impact of different price points on sales volume. | [Link](https://claude.com/resources/use-cases) |
+| 48 | **營銷 ROI 分析**<br>Marketing ROI Analysis | **計算不同渠道的投資報酬率並建議分配。**<br>Calculates channel-specific ROI and suggests budget shifts. | [Link](https://claude.com/resources/use-cases) |
+| 49 | **用戶旅程地圖**<br>User Journey Mapping | **視覺化用戶從接觸到購買的每一個轉折點。**<br>Visualizes every touchpoint from awareness to purchase. | [Link](https://claude.com/resources/use-cases) |
+| 50 | **年度數據趨勢摘要**<br>Annual Data Trend Summary | **快速總結年度重要指標，供董事會報告使用。**<br>Summarizes key annual metrics for high-level board reports. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+## 🛠️ 第七部分：個人效率與生活 (Personal Productivity)
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 51 | **旅行行程排程器**<br>Travel Itinerary Planner | **根據預算與時間，建立精準的每日旅遊地圖。**<br>Creates precise daily travel maps based on budget and time. | [Link](https://claude.com/resources/use-cases) |
+| 52 | **個人理財管家**<br>Personal Finance Assistant | **分析收支紀錄，提供具體的存錢建議。**<br>Analyzes spending records to provide concrete saving tips. | [Link](https://claude.com/resources/use-cases) |
+| 53 | **每週餐點規劃**<br>Weekly Meal Planner | **根據飲食偏好與冰箱剩菜生成食譜。**<br>Generates recipes based on diet preferences and leftovers. | [Link](https://claude.com/resources/use-cases) |
+| 54 | **健身訓練表**<br>Workout Routine Builder | **根據身體指標與器材，設計階段性訓練。**<br>Designs progressive training based on stats and available gear. | [Link](https://claude.com/resources/use-cases) |
+| 55 | **禮物構思器**<br>Gift Ideator | **輸入收禮者特徵，生成獨特且具創意的清單。**<br>Generates unique gift lists based on recipient traits. | [Link](https://claude.com/resources/use-cases) |
+| 56 | **電子書自出版指南**<br>Self-Publishing Guide | **規劃電子書寫作到上架亞馬遜的完整流程。**<br>Plans the workflow from writing to publishing on Amazon. | [Link](https://claude.com/resources/use-cases) |
+| 57 | **面試模擬對話**<br>Mock Interview Practice | **扮演面試官，針對特定職位進行壓力測試。**<br>Acts as an interviewer to stress-test your responses for a role. | [Link](https://claude.com/resources/use-cases) |
+| 58 | **外語對話練習**<br>Language Conversation | **即時對話並指出語法與發音改進點。**<br>Converses in real-time and flags grammar/pronunciation improvements. | [Link](https://claude.com/resources/use-cases) |
+| 59 | **劇本對話潤色**<br>Screenplay Polishing | **優化對話語氣，使角色特質更加鮮明。**<br>Optimizes dialogue to make character traits more distinct. | [Link](https://claude.com/resources/use-cases) |
+| 60 | **學習路徑圖**<br>Learning Roadmap | **針對新領域規劃「從入門到精通」的資源清單。**<br>Plans a curated resource list for mastering a new field. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+## 🤖 第八部分：進階功能與整合應用 (Advanced Integration)
+
+| \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
+| :--- | :--- | :--- | :--- |
+| 61 | **Claude Code 自動化**<br>Claude Code CLI | **在終端機直接下指令修改整個專案的代碼。**<br>Directly issues commands in CLI to edit entire project codebases. | [View Docs](https://www.google.com/search?q=https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) |
+| 62 | **網頁內容即時摘要**<br>Web Search & Fetch | **抓取即時新聞或網頁，並生成對比分析。**<br>Fetches live news or webpages to generate comparative analyses. | [Link](https://claude.com/resources/use-cases) |
+| 63 | **多 PDF 關聯性分析**<br>Multi-PDF Cross-Analysis | **上傳多份文檔，尋找隱藏其中的共同點。**<br>Uploads multiple docs to find hidden commonalities among them. | [Link](https://claude.com/resources/use-cases) |
+| 64 | **自定義項目規範 (Projects)**<br>Custom Project Context | **為特定專案上傳專屬資料庫，確保 AI 不離題。**<br>Uploads project-specific knowledge to keep Claude contextualized. | [Link](https://claude.com/resources/use-cases) |
+| 65 | **互動式試算表 (Excel)**<br>Interactive Sheets | **在 Excel 內透過 Claude API 自動處理數據列。**<br>Automates data rows via Claude API within spreadsheets. | [Link](https://claude.com/resources/use-cases) |
+| 66 | **幻燈片大綱與設計建議**<br>Slide Outline & Design | **生成簡報結構並提供視覺排版建議。**<br>Generates deck structures and provides visual layout advice. | [Link](https://claude.com/resources/use-cases) |
+| 67 | **長文本知識庫構建**<br>Knowledge Base Creation | **將散亂的文檔轉化為可搜尋的 FAQ 或 Wiki。**<br>Transforms scattered docs into searchable FAQs or Wikis. | [Link](https://claude.com/resources/use-cases) |
+| 68 | **AI 客服 Agent 原型**<br>Support Agent Prototyping | **建立具備特定語氣與知識的自動回覆原型。**<br>Builds auto-reply prototypes with specific tones and knowledge. | [Link](https://claude.com/resources/use-cases) |
+| 69 | **情緒識別工作流**<br>Emotional Intelligence Flows | **設計識別用戶挫敗感並自動轉接人工的邏輯。**<br>Designs logic to flag user frustration and escalate to humans. | [Link](https://claude.com/resources/use-cases) |
+| 70 | **圖像至代碼轉換**<br>Image-to-Code | **上傳 UI 截圖，自動生成對應的前端框架代碼。**<br>Converts UI screenshots into corresponding frontend framework code. | [Link](https://claude.com/resources/use-cases) |
+| 71 | **合規性自動化檢查**<br>Automated Compliance | **自動掃描文件是否違反 HIPAA 或 GDPR 規範。**<br>Automatically scans docs for HIPAA or GDPR violations. | [Link](https://claude.com/resources/use-cases) |
+| 72 | **電子商務產品命名**<br>E-commerce Product Naming | **生成符合特定市場文化與 SEO 的產品名稱。**<br>Generates market-culturally appropriate and SEO-friendly names. | [Link](https://claude.com/resources/use-cases) |
+| 73 | **投資組合壓力測試**<br>Portfolio Stress Testing | **模擬市場極端情況對投資組合的潛在影響。**<br>Simulates the impact of extreme market events on portfolios. | [Link](https://claude.com/resources/use-cases) |
+| 74 | **學術圖表數據提取**<br>Chart Data Extraction | **分析截圖中的圖表，將視覺數據轉為表格。**<br>Analyzes charts in screenshots to convert visuals back into tables. | [Link](https://claude.com/resources/use-cases) |
+| 75 | **創新型業務模式發想**<br>Business Model Canvas | **從零構建商業模式圖，並評估各項風險。**<br>Builds Business Model Canvases from scratch and evaluates risks. | [Link](https://claude.com/resources/use-cases) |
+
+-----
+
+**想要深入了解哪一個具體情境嗎？** 我可以為您提供該案例的專屬 **Prompt（提示詞）** 範本！
+
+
+
 ━━━━━━━━━━━━━━━━━━━━
 
 ▍非營利組織（8 個）
