@@ -16,6 +16,13 @@ These books are geared toward navigating the impact of AI on business and the gl
 * [The AI-Savvy Leader: Nine Ways to Take Back Control and Make AI Work by David De Cremer](https://www.amazon.com/AI-Savvy-Leader-Nine-Ways-Control/dp/1647826233)
 * [Supremacy: AI, ChatGPT, and the Race That Will Change the World by Parmy Olson](https://www.amazon.com/Supremacy-ChatGPT-Race-Change-World/dp/1035038226)
 
+5 books to stop feeling behind on AI
+* [Co-Intelligence: Living and Working with AI by Ethan Mollick](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
+* AI First: The Playbook for a Future-Proof Business and Brand by Adam Brotman & Andy Sack2)
+* The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma by Mustafa Suleyman
+* Generative AI: 100 Things You Need to Know by Bernard Marr
+* Nexus: A Brief History of Information Networks from the Stone Age to AI by Yuval Noah Harari
+
 ### Others
 * [Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
 AI 2041: Ten Visions for Our Future by Kai-Fu Lee, Chen Qiufan AI 2041：
