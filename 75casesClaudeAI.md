@@ -14,11 +14,11 @@
 
 | \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
 | :--- | :--- | :--- | :--- |
-| 1 | **募款金字塔分析**<br>Campaign Gift Pyramid | **分析募款目標的可行性，自動繪製階梯圖。**<br>Analyzes campaign goal feasibility by drawing a gift pyramid. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-campaign-gift-pyramid) |
-| 2 | **預算情境對比**<br>Budget Scenario Comparison | **並列顯示多種預算方案，快速切換金額與百分比。**<br>See budget futures side by side with toggle views for better decisions. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-budget-scenarios) |
-| 3 | **捐款者留存預測**<br>Donor Retention Projection | **透過滑桿調整留存率，視覺化長期資金曲線。**<br>Builds a 5-year donor projection to show why retention beats acquisition. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-donor-retention) |
-| 4 | **變革理論邏輯圖**<br>Theory of Change Visualization | **繪製從投入到影響的因果鏈，找邏輯漏洞。**<br>Draws the causal chain from inputs to impact to spot logical gaps. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/nonprofits-theory-of-change) |
-| 5 | **補助金優先級排序**<br>Grant Prioritization | **綜合考量機率與成本，決定優先申請的補助。**<br>Plots every funder in one view to prioritize grant applications. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-grant-options) |
+| 1 | **募款金字塔分析**<br>Campaign Gift Pyramid | **分析募款目標的可行性，自動繪製階梯圖。**<br>Analyzes campaign goal feasibility by drawing a gift pyramid. | [View Case](https://claude.com/resources/use-cases/nonprofits-campaign-gift-pyramid) |
+| 2 | **預算情境對比**<br>Budget Scenario Comparison | **並列顯示多種預算方案，快速切換金額與百分比。**<br>See budget futures side by side with toggle views for better decisions. | [View Case](https://claude.com/resources/use-cases/nonprofits-budget-scenarios) |
+| 3 | **捐款者留存預測**<br>Donor Retention Projection | **透過滑桿調整留存率，視覺化長期資金曲線。**<br>Builds a 5-year donor projection to show why retention beats acquisition. | [View Case](https://claude.com/resources/use-cases/nonprofits-donor-retention) |
+| 4 | **變革理論邏輯圖**<br>Theory of Change Visualization | **繪製從投入到影響的因果鏈，找邏輯漏洞。**<br>Draws the causal chain from inputs to impact to spot logical gaps. | [View Case](https://claude.com/resources/use-cases/nonprofits-theory-of-change) |
+| 5 | **補助金優先級排序**<br>Grant Prioritization | **綜合考量機率與成本，決定優先申請的補助。**<br>Plots every funder in one view to prioritize grant applications. | [View Case](https://claude.com/resources/use-cases/education-grant-options) |
 
 -----
 
@@ -28,12 +28,12 @@
 
 | \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
 | :--- | :--- | :--- | :--- |
-| 6 | **課程大綱規劃**<br>Syllabus Planning | **分析課程順序，標記哪些週次是不可變動的。**<br>Shows which weeks are locked by prerequisites in your syllabus. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-syllabus-planning) |
-| 7 | **文獻綜述圖譜**<br>Literature Review Mapping | **閱讀多篇論文並繪製觀點衝突與共識圖。**<br>Draws argument structures and identifies tensions across academic papers. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-literature-review) |
-| 8 | **互動式公式學習**<br>Interactive Formula Learning | **建立動態散點圖，邊調整點位邊理解公式。**<br>Builds interactive charts to help you get a feel for mathematical formulas. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-interactive-formulas) |
-| 9 | **數據相關性分析**<br>Data Correlation Grid | **上傳數據後自動標記值得深入探討的模式。**<br>Builds a correlation grid from CSVs to flag interesting data patterns. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-data-correlation) |
-| 10 | **白板教學視覺化**<br>Whiteboard Lesson Design | **邊聊天邊繪製教學草圖，讓抽象概念具象化。**<br>Brings concepts to life with sketches during the pedagogical back-and-forth. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-whiteboard-lessons) |
-| 11 | **機制原理解釋**<br>Mechanism Visualization | **建立可互動的視覺化模型解釋物理或化學機制。**<br>Visualizes the mechanism behind an explanation with interactive controls. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/education-mechanism-visualization) |
+| 6 | **課程大綱規劃**<br>Syllabus Planning | **分析課程順序，標記哪些週次是不可變動的。**<br>Shows which weeks are locked by prerequisites in your syllabus. | [View Case](https://claude.com/resources/use-cases/education-syllabus-planning) |
+| 7 | **文獻綜述圖譜**<br>Literature Review Mapping | **閱讀多篇論文並繪製觀點衝突與共識圖。**<br>Draws argument structures and identifies tensions across academic papers. | [View Case](https://claude.com/resources/use-cases/education-literature-review) |
+| 8 | **互動式公式學習**<br>Interactive Formula Learning | **建立動態散點圖，邊調整點位邊理解公式。**<br>Builds interactive charts to help you get a feel for mathematical formulas. | [View Case](https://claude.com/resources/use-cases/education-interactive-formulas) |
+| 9 | **數據相關性分析**<br>Data Correlation Grid | **上傳數據後自動標記值得深入探討的模式。**<br>Builds a correlation grid from CSVs to flag interesting data patterns. | [View Case](https://claude.com/resources/use-cases/education-data-correlation) |
+| 10 | **白板教學視覺化**<br>Whiteboard Lesson Design | **邊聊天邊繪製教學草圖，讓抽象概念具象化。**<br>Brings concepts to life with sketches during the pedagogical back-and-forth. | [View Case](https://claude.com/resources/use-cases/education-whiteboard-lessons) |
+| 11 | **機制原理解釋**<br>Mechanism Visualization | **建立可互動的視覺化模型解釋物理或化學機制。**<br>Visualizes the mechanism behind an explanation with interactive controls. | [View Case](https://claude.com/resources/use-cases/education-mechanism-visualization) |
 
 -----
 
@@ -43,10 +43,10 @@
 
 | \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
 | :--- | :--- | :--- | :--- |
-| 12 | **品牌素材生成**<br>Brand Asset Creation | **生成符合品牌指南的名片、傳單與行銷素材。**<br>Generates professional marketing materials that match branding guidelines. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/professional-brand-assets) |
-| 13 | **合約修訂與談判**<br>Contract Redlining | **分析協議條款，提出修改建議與談判籌碼。**<br>Analyzes agreements to suggest redlines and negotiation points. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/legal-contract-redlining) |
-| 14 | **個人作品集網頁**<br>Custom Webpage Building | **從零構建個人網站，並學習如何佈署上線。**<br>Builds portfolio sites and provides no-code deployment guidance. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/personal-custom-webpage) |
-| 15 | **設計風格注入 (Skills)**<br>Enhancing Design Skills | **建立「技能」讓 Claude 的輸出自動遵循設計原則。**<br>Injects specific design principles into every output using Claude Skills. | [View Case](https://www.google.com/search?q=https://claude.com/resources/use-cases/personal-design-skills) |
+| 12 | **品牌素材生成**<br>Brand Asset Creation | **生成符合品牌指南的名片、傳單與行銷素材。**<br>Generates professional marketing materials that match branding guidelines. | [View Case](https://claude.com/resources/use-cases/professional-brand-assets) |
+| 13 | **合約修訂與談判**<br>Contract Redlining | **分析協議條款，提出修改建議與談判籌碼。**<br>Analyzes agreements to suggest redlines and negotiation points. | [View Case](https://claude.com/resources/use-cases/legal-contract-redlining) |
+| 14 | **個人作品集網頁**<br>Custom Webpage Building | **從零構建個人網站，並學習如何佈署上線。**<br>Builds portfolio sites and provides no-code deployment guidance. | [View Case](https://claude.com/resources/use-cases/personal-custom-webpage) |
+| 15 | **設計風格注入 (Skills)**<br>Enhancing Design Skills | **建立「技能」讓 Claude 的輸出自動遵循設計原則。**<br>Injects specific design principles into every output using Claude Skills. | [View Case](https://claude.com/resources/use-cases/personal-design-skills) |
 | 16 | **職位描述生成**<br>Job Description Creation | **撰寫吸引人的 JD 並確保職能描述精準。**<br>Drafts compelling job descriptions that align with organizational needs. | [Link](https://claude.com/resources/use-cases) |
 | 17 | **會議行動清單**<br>Meeting Action Items | **從長篇會議記錄中提取待辦事項與決策。**<br>Extracts concrete action items and key decisions from meeting transcripts. | [Link](https://claude.com/resources/use-cases) |
 | 18 | **入職手冊編寫**<br>Onboarding Guide | **將混亂的文檔整理成結構化的新員工手冊。**<br>Organizes internal docs into a structured guide for new hires. | [Link](https://claude.com/resources/use-cases) |
@@ -129,7 +129,7 @@
 
 | \# | 使用情境 (Use Case) | 中英說明 (Description) | 官方連結 (URL) |
 | :--- | :--- | :--- | :--- |
-| 61 | **Claude Code 自動化**<br>Claude Code CLI | **在終端機直接下指令修改整個專案的代碼。**<br>Directly issues commands in CLI to edit entire project codebases. | [View Docs](https://www.google.com/search?q=https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) |
+| 61 | **Claude Code 自動化**<br>Claude Code CLI | **在終端機直接下指令修改整個專案的代碼。**<br>Directly issues commands in CLI to edit entire project codebases. | [View Docs](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) |
 | 62 | **網頁內容即時摘要**<br>Web Search & Fetch | **抓取即時新聞或網頁，並生成對比分析。**<br>Fetches live news or webpages to generate comparative analyses. | [Link](https://claude.com/resources/use-cases) |
 | 63 | **多 PDF 關聯性分析**<br>Multi-PDF Cross-Analysis | **上傳多份文檔，尋找隱藏其中的共同點。**<br>Uploads multiple docs to find hidden commonalities among them. | [Link](https://claude.com/resources/use-cases) |
 | 64 | **自定義項目規範 (Projects)**<br>Custom Project Context | **為特定專案上傳專屬資料庫，確保 AI 不離題。**<br>Uploads project-specific knowledge to keep Claude contextualized. | [Link](https://claude.com/resources/use-cases) |
