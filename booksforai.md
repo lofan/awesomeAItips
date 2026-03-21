@@ -18,10 +18,10 @@ These books are geared toward navigating the impact of AI on business and the gl
 
 5 books to stop feeling behind on AI
 * [Co-Intelligence: Living and Working with AI by Ethan Mollick](https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X)
-* AI First: The Playbook for a Future-Proof Business and Brand by Adam Brotman & Andy Sack2)
-* The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma by Mustafa Suleyman
-* Generative AI: 100 Things You Need to Know by Bernard Marr
-* Nexus: A Brief History of Information Networks from the Stone Age to AI by Yuval Noah Harari
+* [AI First: The Playbook for a Future-Proof Business and Brand by Adam Brotman & Andy Sack2](https://www.amazon.com/AI-First-Playbook-Future-Proof-Business/dp/1647829658)
+* [The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma by Mustafa Suleyman](https://www.amazon.com/Coming-Wave-Technology-Twenty-first-Centurys-ebook/dp/B0BSKW45KB)
+* [Generative AI: 100 Things You Need to Know by Bernard Marr](https://www.amazon.com/Generative-AI-Practice-Artificial-Intelligence-ebook/dp/B0CW1M21BC)
+* [Nexus: A Brief History of Information Networks from the Stone Age to AI by Yuval Noah Harari](https://www.amazon.com/dp/B0CS3C3TBX)
 
 ### Others
 * [Introduction to Machine Learning Systems](https://github.com/harvard-edge/cs249r_book)
