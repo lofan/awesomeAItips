@@ -89,3 +89,29 @@ Her cheeks are subtly flushed, her gaze soft and slightly unfocused. Her lipstic
 Rain droplets on glass reflect neon hues (blue, purple, red). Warm golden indoor lighting contrasts with the cool tones outside. Cinematic reflections layer across the window and wine glass. Soft shadows, volumetric lighting, slight atmospheric haze.
 Shot with an 85mm lens, f/1.2, shallow depth of field, strong bokeh from neon city lights. Medium-full body composition, subject placed slightly off-center following rule of thirds. Subtle camera tilt for cinematic tension. Reflections partially overlapping the subject.
 Ultra-realistic, film still quality, Blade Runner-inspired mood with Netflix drama realism. Emotional, moody, late-night solitude. Quiet luxury meets vulnerability.
+
+
+# moody night portrait of a young East Asian woman
+* A cinematic, sensual night portrait of a young East Asian woman sitting in a luxury high-rise lounge beside a floor-to-ceiling glass window overlooking a glowing river city.
+Outside, a vivid red illuminated bridge cuts across the dark water, neon reflections shimmering through light mist. light shower outside. background is tokyo rainbow brdige, the city skyline glows softly in the background, blurred into dreamy bokeh.
+The woman reclines in a modern armchair, legs elegantly extended and slightly parted, one shoulder subtly slipping out of a soft off-white cardigan. Beneath, she wears a form-fitting black mini dress with a low neckline, delicately contouring her body, wear nude color high heelsl.
+Her posture is relaxed yet seductive—head tilted back slightly, eyes half-closed, lips softly parted as if mid-breath. One hand rests loosely on her thigh, the other drapes over the armrest, conveying quiet desire and late-night vulnerability.
+Her skin is smooth and luminous with a soft golden glow, subtle highlights on collarbones, shoulders, and legs. Makeup is refined and minimal—dewy skin, warm blush, slightly glossy lips.
+A small metallic table beside her holds a bottle of liquor and a half-filled glass, catching warm reflections, hinting at a solitary, intimate moment.
+The lighting is a mix of warm ambient interior tones and cool neon reflections from outside, creating contrast across her body—soft shadows shaping her silhouette.
+Faint reflections on the glass merge her figure with the city lights, enhancing a dreamy, intimate, almost voyeuristic mood.
+
+⸻
+
+Style & Details:
+	•	photorealistic, ultra-detailed skin
+	•	cinematic low-light, soft shadows
+	•	shallow depth of field
+	•	50mm / 85mm lens look
+	•	warm gold + neon red/blue color grading
+	•	sensual but elegant, Korean ad campaign style
+	•	film still, luxury nightlife aesthetic
+	•	4K, high dynamic range
+
+<img width="1408" height="768" alt="moody night portrait of a young East Asian woman4" src="https://github.com/user-attachments/assets/ecc93258-5dda-4779-9c25-95db3da1b5e9" />
+
