@@ -35,7 +35,7 @@ Scan all current sources
 * Step 3: Use “Explain → Compare → Apply”
 I noticed that most people just ask “summarize this chapter.” That is fast but not real learning. A much more powerful pattern used by top NotebookLM teachers is Explain → Compare → Apply.​
 
-** 3.1 Explain (build foundations)
+* 3.1 Explain (build foundations)
 Prompt:
 Teach me the content of these sources step by step, starting from zero.
 Break it into short lessons:
@@ -44,13 +44,13 @@ One simple example
 A 2‑line summary I could tell a friend.
 Use the vocabulary from the sources and add citations for every claim.
 Use the answers as mini‑lessons; pin/save the best ones as notes.
-** 3.2 Compare (build understanding)
+* 3.2 Compare (build understanding)
 Compare - Build Understanding
 Prompt
 Take the main concepts you just taught me and create a compare/contrast table.
 Columns: concept, definition, how it is used, how it is different from similar ideas, example from the sources.
 This forces NotebookLM to align ideas and makes the structure of the topic obvious.
-** 3.3 Apply (build real skill)
+* 3.3 Apply (build real skill)
 Prompt:
 Give me 5 practice questions that apply these ideas to new situations (word problems, case studies, or real‑world examples).
 Ask me one question at a time.
@@ -63,7 +63,7 @@ Now you are doing active recall and feedback in the same place.
 * Step 4: Turn your notebook into a complete study system
 NotebookLM’s Studio / Notebook Guide can auto‑build structured learning tools for you. Most users never go past chat. Don't be that user.  That is like leaving 80% of the “10x” on the table. Do you understand?
 I will teach you how
-4.1 Auto study guide
+* 4.1 Auto study guide
 At the top of the Notebook Guide, click Study Guide (or use this prompt):
 Create a structured study guide for everything in this notebook:
 Modules and subtopics
@@ -71,7 +71,7 @@ Bullet explanations
 Key formulas / definitions
 ‘Common mistakes’ for each section.
 Ground everything in my sources with citations.
-4.2 Flashcards and quizzes (real memory work)
+* 4.2 Flashcards and quizzes (real memory work)
 NotebookLM can instantly generate flashcards and quizzes from your sources, including difficulty levels
 NotebookLM Flash Card
 Flashcard prompt:
@@ -87,35 +87,36 @@ After each, wait for my answer, then:
 tell me if I’m right
 explain the correct answer
 link to the source paragraph.
-4.3 Audio / video overviews (learn while doing life like I do)
+* 4.3 Audio / video overviews (learn while doing life like I do)
 NotebookLM can turn your notebook into an audio overview or even a video‑style explanation, so you can “listen to your textbook” while commuting or walking.
 Prompt 
 “Create a 20‑minute Audio Overview that teaches this entire notebook as if you are a patient tutor.
 Order:
-big picture,
+1. big picture,
 2. key ideas,
 3. worked examples,
 4. recap and practical tips.
 Use casual language but correct terminology.
 Play this like a podcast; then come back and quiz yourself.
-Step 5: Build a 7‑day learning sprint with NotebookLM
+
+* Step 5: Build a 7‑day learning sprint with NotebookLM
 Now this is optional I use it when I have to learn anything fast. 
 Here is a concrete mini‑plan that makes “10x faster” real for me
-Day 1: Setup + big picture
+
+# Day 1: Setup + big picture
 Create notebook and add 5–10 core sources.
 Run the overview prompt and gap prompt from Step 2.
 Generate a high‑level study guide.
-Day 2–3: Explain + Compare
+# Day 2–3: Explain + Compare
 Do two “Explain” lessons and one “Compare table” session per day.
 Pin/save the best explanations as written notes in NotebookLM.
-Day 4–5: Apply + Quizzes
+# Day 4–5: Apply + Quizzes
 20–30 minutes per day of “Apply” questions and adaptive quiz sessions.
 After each wrong answer, ask:
 “Explain this concept again like I am 12, using a different example.”
-Day 6: Audio + mind map
+# Day 6: Audio + mind map
 Generate an Audio Overview and listen once.
 Ask:“Turn this topic into a mind map with main branches and sub‑branches, grounded in my sources.”
-
 # Day 7: Teach‑back test
 Final prompt:
 Pretend I just studied this notebook and you are my examiner.
