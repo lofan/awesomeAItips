@@ -90,6 +90,9 @@ Rain droplets on glass reflect neon hues (blue, purple, red). Warm golden indoor
 Shot with an 85mm lens, f/1.2, shallow depth of field, strong bokeh from neon city lights. Medium-full body composition, subject placed slightly off-center following rule of thirds. Subtle camera tilt for cinematic tension. Reflections partially overlapping the subject.
 Ultra-realistic, film still quality, Blade Runner-inspired mood with Netflix drama realism. Emotional, moody, late-night solitude. Quiet luxury meets vulnerability.
 
+<img width="1376" height="768" alt="Tokyo Rainy Nights Lady" src="https://github.com/user-attachments/assets/9c4d88ee-1291-4266-9bf6-37418a15f7a7" />
+
+
 
 # moody night portrait of a young East Asian woman
 * A cinematic, sensual night portrait of a young East Asian woman sitting in a luxury high-rise lounge beside a floor-to-ceiling glass window overlooking a glowing river city.
