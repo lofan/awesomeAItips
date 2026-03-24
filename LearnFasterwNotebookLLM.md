@@ -1,4 +1,5 @@
 How to learn anything 10x faster with Notebook LM in 7 days (Bonus Prompts included)
+[reference](https://x.com/KanikaBK/status/2036459326064435377)
 
 # NotebookLM is not “another ChatGPT.”
 It is an AI tutor grounded in your PDFs, notes, and videos. 
@@ -31,9 +32,10 @@ a 10‑bullet high‑level overview of the topic
 a list of 8–12 key concepts I must master
 any obvious gaps in the material I should fill with more sources.
 Scan all current sources
-Step 3: Use “Explain → Compare → Apply”
+* Step 3: Use “Explain → Compare → Apply”
 I noticed that most people just ask “summarize this chapter.” That is fast but not real learning. A much more powerful pattern used by top NotebookLM teachers is Explain → Compare → Apply.​
-3.1 Explain (build foundations)
+
+** 3.1 Explain (build foundations)
 Prompt:
 Teach me the content of these sources step by step, starting from zero.
 Break it into short lessons:
@@ -42,13 +44,13 @@ One simple example
 A 2‑line summary I could tell a friend.
 Use the vocabulary from the sources and add citations for every claim.
 Use the answers as mini‑lessons; pin/save the best ones as notes.
-3.2 Compare (build understanding)
+** 3.2 Compare (build understanding)
 Compare - Build Understanding
 Prompt
 Take the main concepts you just taught me and create a compare/contrast table.
 Columns: concept, definition, how it is used, how it is different from similar ideas, example from the sources.
 This forces NotebookLM to align ideas and makes the structure of the topic obvious.
-3.3 Apply (build real skill)
+** 3.3 Apply (build real skill)
 Prompt:
 Give me 5 practice questions that apply these ideas to new situations (word problems, case studies, or real‑world examples).
 Ask me one question at a time.
@@ -57,7 +59,8 @@ grade my answer
 correct it
 show the exact paragraph(s) in the sources you used.
 Now you are doing active recall and feedback in the same place.
-Step 4: Turn your notebook into a complete study system
+
+* Step 4: Turn your notebook into a complete study system
 NotebookLM’s Studio / Notebook Guide can auto‑build structured learning tools for you. Most users never go past chat. Don't be that user.  That is like leaving 80% of the “10x” on the table. Do you understand?
 I will teach you how
 4.1 Auto study guide
