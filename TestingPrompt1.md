@@ -1,3 +1,4 @@
+# Compare the 4 LLM Deepseek, ChatGPT, Gemini & Perplexity, prompt as follows:
 # 用廣東話分析拆解 "The world most powerful reserve currency" using first principles thinking. Start by identifying every assumption people commonly make about this topic. Then strip each assumption away and ask: what is fundamentally, provably true here? Rebuild the concept from only what remains. Show me what changes when you remove inherited thinking.
 * Deepseek
 
