@@ -1,4 +1,4 @@
-# Is this real or AI creation?
+# AI Video Authenticity Check. Is this real or AI creation? 
 Example 1: https://x.com/ADnotMilk/status/2040649793173946409
 ![IMG_2586](https://github.com/user-attachments/assets/2a62e6f4-61f1-42dd-ae1b-08833701266c)
 ![IMG_2587](https://github.com/user-attachments/assets/39cdfac6-db70-4664-890c-289a56da33b4)
