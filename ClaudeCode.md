@@ -12,6 +12,8 @@ Someone turned the ENTIRE Claude Code system into a readable playbook.
 呢個分析係基於 Claude Code 喺 npm 發佈時意外流出嘅 TypeScript 源代碼（透過 Source Maps 还原）。成份嘢分為 **7 個部分，共 18 個章節**，詳細拆解咗一個「工業級 AI Agent」係點樣運作嘅。
 
 以下係廣東話版本嘅 Chapter by Chapter 內容總結：
+<img width="1408" height="768" alt="ClaudeCodefromSrc" src="https://github.com/user-attachments/assets/66de7610-7873-4d5b-b29f-6a973d8fb378" />
+
 
 ---
 
