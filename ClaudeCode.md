@@ -1,6 +1,6 @@
 # Claude Code
-* [Claude Code Doc](https://code.claude.com/docs/en/overview)
-* [Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
+* [Claude Code Doc (Offical)](https://code.claude.com/docs/en/overview)
+* [Claude Code: A Highly Agentic Coding Assistant (Deeplearning.ai)](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/lesson/66b35/introduction)
 * This might be the wildest AI engineering breakdown on the internet right now 🤯
 After the Anthropic leak…
 
