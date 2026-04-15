@@ -24,7 +24,7 @@ Why it works: The negative constraints kill the AI smell. The example teaches Cl
 我需要關於[主題]的[類型：部落格文章/時事通訊/文章]初稿。
 
 觀眾：[他們是誰]
-語氣：[特定語氣 - 例如，直接且略帶不敬]
+語氣：[特定語氣 - 例如，直接且略帶不敬, 毒舌評論員]
 長度：[字數]
 聽起來不像：通用人工智慧、企業術語、LinkedIn 影響者
 不包括：填充短語、不必要的警告、“在當今快節奏的世界”
