@@ -20,6 +20,21 @@ Here is an example of my writing style:
 Match the voice and energy of the example. Write a complete first draft.
 Why it works: The negative constraints kill the AI smell. The example teaches Claude your voice better than any description ever could. This single prompt replaced 90 minutes of staring at a blank page.
 
+## 01. 第一完美的初稿
+我需要關於[主題]的[類型：部落格文章/時事通訊/文章]初稿。
+
+觀眾：[他們是誰]
+語氣：[特定語氣 - 例如，直接且略帶不敬]
+長度：[字數]
+聽起來不像：通用人工智慧、企業術語、LinkedIn 影響者
+不包括：填充短語、不必要的警告、“在當今快節奏的世界”
+
+這是我的寫作風格的一個例子：
+[貼您之前最好的作品]
+
+匹配範例的聲音和能量。寫出完整的初稿。
+為什麼有效：負面約束消除了人工智慧的味道。這個例子比任何描述都更能教導克勞德你的聲音。這個單一的提示取代了 90 分鐘盯著空白頁的時間。
+
 ## 02. The Thread Expander
 Turn this idea into a 10-post X/Twitter thread:
 
@@ -33,7 +48,8 @@ Rules:
 - No hashtags. No emojis unless absolutely necessary
 - Does NOT sound like: a motivational speaker or LinkedIn guru
 Why it works: The structure constraint forces a logical narrative. The negative constraints keep it from sounding like every other AI thread on the timeline.
-03. The Content Repurposer
+
+## 03. The Content Repurposer
 I have one piece of long-form content. Repurpose it into multiple formats.
 
 Original content:
@@ -61,7 +77,8 @@ Use these frameworks (at least 2 headlines per framework):
 
 Rank your top 5 picks and explain why each one would stop someone mid-scroll.
 Why it works: Most people write one headline and hope for the best. This generates 20 options across proven frameworks and forces Claude to evaluate which ones are actually scroll-stopping.
-05. The Email Sequence Writer
+
+## 05. The Email Sequence Writer
 Write a 5-email welcome sequence for [PRODUCT/SERVICE].
 
 Target audience: [WHO]
@@ -84,7 +101,9 @@ Rules:
 
 Each email should feel like it came from a person, not a marketing department.
 Why it works: This single prompt replaces what a copywriter charges $500 to $2,000 to produce. The structure ensures each email serves a strategic purpose rather than just filling an inbox.
-06. The SEO Content Brief
+
+
+## 06. The SEO Content Brief
 Create a complete content brief for a blog post targeting the keyword: [KEYWORD]
 
 Include:
@@ -100,7 +119,8 @@ Include:
 
 The brief should be detailed enough that any writer could produce the article without additional research.
 Why it works: This turns a 2-hour research and planning session into a 2-minute prompt. The featured snippet section alone is worth the effort because most writers never optimize for it.
-07. The Voice Cloner
+
+## 07. The Voice Cloner
 Analyze the following writing samples and extract my writing voice:
 
 [PASTE 2-3 OF YOUR BEST PIECES]
@@ -117,7 +137,8 @@ Create a "Voice Profile" that includes:
 Then write a 200-word sample paragraph about [ANY TOPIC] using this exact voice profile. I will compare it to my actual writing to verify accuracy.
 Why it works: Run this once and save the output as a context file. Every future prompt gets your voice right the first time instead of sounding like every other AI output on the internet.
 Research & Analysis (8-14) 🔍
-08. The Meeting Prep Brief
+
+## 08. The Meeting Prep Brief
 I have a meeting with [PERSON NAME] from [COMPANY] in [TIME].
 
 Research and create a one-page brief covering:
@@ -130,7 +151,8 @@ Research and create a one-page brief covering:
 
 Format as a scannable document I can read in 5 minutes before the call.
 Why it works: This replaced 30 minutes of LinkedIn stalking and Google searching before every meeting. The "common ground" section alone has opened more doors than any other prep step.
-09. The Decision Matrix
+
+## 09. The Decision Matrix
 I need to make a decision about [DECISION].
 
 My options are:
@@ -153,7 +175,8 @@ Then give me your recommended option with reasoning in 3 sentences.
 
 Do NOT hedge. Pick one and defend it.
 Why it works: The "do not hedge" instruction is everything. Without it, Claude gives you a balanced analysis that helps nobody. With it, you get a clear recommendation you can either follow or argue against.
-10. The Competitor Breakdown
+
+## 10. The Competitor Breakdown
 Analyze [COMPETITOR NAME / URL] as if you were a competitive intelligence analyst.
 
 Cover:
@@ -170,7 +193,8 @@ End with: 3 strategic opportunities we could exploit based on their weaknesses.
 
 Use only factual information. If you are not confident about a claim, flag it as unverified.
 Why it works: This replaces a full afternoon of competitive research. The "flag as unverified" instruction prevents Claude from confidently making things up about your competitors, which is the default failure mode.
-11. The Book Processor
+
+## 11. The Book Processor
 I just read [BOOK TITLE] by [AUTHOR].
 
 Create a structured summary with these sections:
@@ -185,7 +209,8 @@ Create a structured summary with these sections:
 
 Write as if you are briefing a busy executive who wants the signal, not the story.
 Why it works: This turns a 6-hour book into a 10-minute actionable brief. The "apply this to my specific situation" section makes it practical instead of theoretical.
-12. The Data Explainer
+
+## 12. The Data Explainer
 Here is a dataset:
 
 [PASTE YOUR DATA OR DESCRIBE IT]
@@ -203,7 +228,8 @@ Present the findings in two formats:
 
 If the data is insufficient to draw any conclusion, say so rather than speculating.
 Why it works: The two-format output is the secret. You get the quick answer for yourself and the detailed version for the stakeholder who asks follow-up questions. The "what this data does NOT tell us" section prevents overconfident decisions.
-13. The Process Documenter
+
+## 13. The Process Documenter
 I am going to describe a process I do regularly. Turn it into a structured Standard Operating Procedure.
 
 My process:
@@ -220,7 +246,8 @@ Create an SOP with:
 
 Format it so that a new hire could follow it on their first day without asking any questions.
 Why it works: Everyone has processes living in their head that they have never documented. This prompt extracts them in a format that can be delegated to a human or automated with an AI agent.
-14. The Assumption Destroyer
+
+## 14. The Assumption Destroyer
 I am planning to [PROJECT / DECISION / STRATEGY].
 
 Here are my assumptions:
@@ -239,7 +266,8 @@ Then identify 2 assumptions I am probably making that I did NOT list. Explain ea
 Be honest and direct. Do not soften bad news.
 Why it works: This is the most underrated prompt on the list. The hidden assumptions section has single-handedly prevented bad decisions for me more than once. We are all blind to our own blind spots.
 Productivity & Business (15-21) ⚡
-15. The Weekly Review Engine
+
+## 15. The Weekly Review Engine
 Here is what happened this week:
 
 Completed: [LIST WHAT YOU FINISHED]
@@ -256,7 +284,8 @@ Based on this:
 
 Be direct. If something I spent time on was a waste, say so.
 Why it works: Friday review in 5 minutes instead of 30. The "be direct" instruction prevents Claude from praising everything you did and actually forces useful self-assessment.
-16. The Client Proposal Generator
+
+## 16. The Client Proposal Generator
 Draft a project proposal for [CLIENT NAME].
 
 Project: [WHAT YOU ARE BUILDING / PROVIDING]
@@ -276,7 +305,8 @@ Tone: professional and confident but not stiff. The client should feel like they
 
 Keep the entire proposal under 800 words. Brevity signals confidence.
 Why it works: Most proposals are either too long or too vague. The "explicitly what is NOT included" section prevents scope creep from day one. "Brevity signals confidence" keeps Claude from padding.
-17. The Cold Outreach Personalizer
+
+## 17. The Cold Outreach Personalizer
 I want to reach out to [PERSON] at [COMPANY] about [WHAT YOU OFFER].
 
 Their role: [TITLE]
@@ -293,7 +323,8 @@ Write a cold email that:
 Does NOT sound like: a template, a sales pitch, or a LinkedIn connection message.
 Sounds like: a smart person who noticed something relevant and reached out.
 Why it works: The 100-word limit is the magic constraint. It forces Claude to cut everything that is not essential. The "sounds like" vs "does not sound like" instruction eliminates every bad habit of AI-generated outreach.
-18. The Feedback Translator
+
+## 18. The Feedback Translator
 I received this feedback:
 
 [PASTE THE FEEDBACK — from a client, boss, colleague, review, etc.]
@@ -307,7 +338,8 @@ Help me:
 Tone of my response: [professional / grateful / firm — pick one]
 Length: under 150 words
 Why it works: Emotional feedback is hard to process in the moment. This creates a cooling-off filter that translates feelings into actions. The "what they are actually asking for vs what they said" distinction is worth the entire prompt.
-19. The Meeting Killer
+
+## 19. The Meeting Killer
 Here is the agenda and context for an upcoming meeting:
 
 [PASTE MEETING INVITE, AGENDA, OR DESCRIBE THE PURPOSE]
@@ -321,7 +353,8 @@ Determine:
 
 The goal is either killing this meeting or making it half as long.
 Why it works: The average professional spends 31 hours per month in unnecessary meetings. This prompt alone is worth an hour saved per week just by running it on your calendar once.
-20. The Pricing Strategy Advisor
+
+## 20. The Pricing Strategy Advisor
 I sell [PRODUCT/SERVICE] to [TARGET AUDIENCE].
 
 Current price: [PRICE]
@@ -338,7 +371,8 @@ Analyze my pricing and give me:
 
 Be direct. Most people underprice out of fear. If that is me, say so.
 Why it works: Pricing is the single highest-leverage decision in any business. A 20% price increase goes straight to profit. Most people never analyze this because it feels uncomfortable. Let Claude do the uncomfortable analysis.
-21. The Delegation Formatter
+
+## 21. The Delegation Formatter
 I need to delegate this task:
 
 [DESCRIBE THE TASK IN YOUR OWN WORDS]
@@ -355,7 +389,8 @@ Format it so I can paste it directly into a Slack message or email.
 Length: under 200 words.
 Why it works: Bad delegation creates more work than doing it yourself. This prompt forces clarity on the two things most people skip: "definition of done" and "decision authority." Those two sections eliminate 80% of back-and-forth.
 Thinking & Strategy (22-25)
-22. The Reverse Brainstorm
+
+## 22. The Reverse Brainstorm
 I want to [GOAL].
 
 First, brainstorm 10 ways I could guarantee FAILURE at this goal. Be creative and specific.
@@ -369,7 +404,8 @@ Finally, rank the 3 inverted strategies that are:
 
 For each of the top 3, give me a specific first step I can take tomorrow.
 Why it works: Direct brainstorming produces predictable ideas. Inverting failure modes produces genuinely surprising strategies. This is one of my favourite Claude techniques and it consistently generates ideas I would never have arrived at through normal thinking.
-23. The Pre-Mortem
+
+## 23. The Pre-Mortem
 I am about to [DECISION / LAUNCH / PROJECT].
 
 Imagine it is 6 months from now and this has completely failed.
@@ -387,7 +423,8 @@ Then return to the present. Based on this pre-mortem:
 
 Be brutally honest. I would rather hear hard truths now than learn them the expensive way.
 Why it works: Pre-mortems are one of the most powerful strategic tools that almost nobody uses. Having Claude write the failure story from the future surfaces risks that optimism blinds you to in the present.
-24. The Second Brain Synthesizer
+
+## 24. The Second Brain Synthesizer
 Here are notes I have collected over the past [TIMEFRAME]:
 
 [PASTE YOUR RAW NOTES, IDEAS, HIGHLIGHTS, OBSERVATIONS]
@@ -401,7 +438,8 @@ Synthesize these into:
 
 Do not just summarize each note. Find the signal across all of them. I want emergence, not repetition.
 Why it works: We all capture notes and never revisit them. This prompt turns a messy collection of fragments into synthesized insight. The "connections between ideas I did not notice" instruction is where the real value lives.
-25. The Personal Board of Advisors
+
+## 25. The Personal Board of Advisors
 I am facing this situation:
 
 [DESCRIBE YOUR SITUATION, PROBLEM, OR DECISION]
@@ -421,6 +459,7 @@ Then synthesize their advice into one recommended action with reasoning.
 If the advisors disagree on something fundamental, highlight that tension. Do not resolve it artificially.
 Why it works: This is the most powerful prompt on the entire list. Five perspectives produce dramatically richer analysis than one. The "do not resolve the tension artificially" instruction is critical because real decisions involve real tradeoffs that cannot be smoothed over.
 TL;DR
+
 25 prompts. All tested daily. Zero gimmicks.
 Copy the ones relevant to your work. Paste them. Customize the brackets. Use them.
 The difference between someone who spends 50 hours a week working and someone who gets the same results in 40 is not talent. It is systems.
