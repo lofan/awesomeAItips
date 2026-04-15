@@ -4,7 +4,8 @@ Save this :)
 Most prompt lists are full of gimmicks. "Act as a pirate and explain quantum physics." Cool party trick. Zero practical value.
 These are different. Every prompt on this list solves a real problem that costs you real time every single week. Copy them. Paste them. Get your hours back.
 Writing & Content (1-7)
-01. The First Draft Killer
+
+## 01. The First Draft Killer
 I need a first draft of [TYPE: blog post / newsletter / article] about [TOPIC].
 
 Audience: [WHO THEY ARE]
@@ -18,7 +19,8 @@ Here is an example of my writing style:
 
 Match the voice and energy of the example. Write a complete first draft.
 Why it works: The negative constraints kill the AI smell. The example teaches Claude your voice better than any description ever could. This single prompt replaced 90 minutes of staring at a blank page.
-02. The Thread Expander
+
+## 02. The Thread Expander
 Turn this idea into a 10-post X/Twitter thread:
 
 [PASTE YOUR IDEA OR HOT TAKE]
@@ -45,7 +47,8 @@ Create:
 
 Keep my voice consistent across all formats. Adapt length and tone to each platform but the core message stays the same.
 Why it works: One hour of writing becomes an entire week of content across 4 platforms. The "standalone" instruction prevents lazy extraction where every tweet is just a sentence ripped from the article.
-04. The Headline Machine
+
+## 04. The Headline Machine
 Generate 20 headline variations for this topic: [TOPIC]
 
 Use these frameworks (at least 2 headlines per framework):
