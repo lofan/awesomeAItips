@@ -1,0 +1,9 @@
+
+
+https://www.youtube.com/watch?v=pdu5Y0h1Qrw
+
+# Content
+
+
+# Design
+Extract in details the style, design, color, fonts, layout hierarchy, aspect ratio etc. from all these images. Ignore the written content. Send me the description in a JSON format.
