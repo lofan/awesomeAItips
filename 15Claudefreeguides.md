@@ -1,12 +1,9 @@
 You can skip all of it with these 15 free guides:
 
-Here’s the cleaned-up Markdown with each line using the description as the clickable text:
-
-
-1. [Claude 101](https://ruben.substack.com/p/claude)  
-2. [Claude Code](http://claudecode.free)  
-3. [Claude Skills](https://ruben.substack.com/p/claude-skills)  
-4. [Stop prompting](https://ruben.substack.com/p/stop-prompting-claude)  
+1. [Claude 101](https://ruben.substack.com/p/claude)  How to set up Claude the right way (so you actually stop going back to ChatGPT).
+2. [Claude Code](http://claudecode.free)  How to setup Claude Code (without coding):
+3. [Claude Skills](https://ruben.substack.com/p/claude-skills)  How to set up Claude the right way (so you actually stop prompting).
+4. [Stop prompting](https://ruben.substack.com/p/stop-prompting-claude)  How to upgrade Claude Cowork with Obsidian:
 5. [Claude in Excel](https://ruben.substack.com/p/ai-couldnt-do-excel)  
 6. [1M followers with AI](https://ruben.substack.com/p/1000000how-claude.team)  
 7. [Claude for your team](http://how-claude.team)  
