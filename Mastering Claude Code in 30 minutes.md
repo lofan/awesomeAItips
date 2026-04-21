@@ -1,4 +1,5 @@
-這段由 Anthropic 發佈的影片《Mastering Claude Code in 30 minutes》，由技術團隊成員 Boris Cherny 詳盡介紹了專為開發者設計的新型 AI 助手 —— **Claude Code**。以下是對該內容的 600 字重點總結：
+這段由 Anthropic 發佈的影片《Mastering Claude Code in 30 minutes》，由技術團隊成員 Boris Cherny 詳盡介紹了專為開發者設計的新型 AI 助手 —— **Claude Code**。
+趕快存起來——今天就花 30 分鐘觀看吧！該視頻將徹底改變您使用克勞德的方式。
 
 ### 1. Claude Code 的核心定位
 Claude Code 不僅僅是一個簡單的聊天機器人，它是一個  **基於終端機（Terminal-based）**的代理程式。它的設計初衷是無縫嵌入開發者的現有工作流中，而不是取代開發工具（IDE）。它具備操作文件、執行命令及理解整個代碼庫（Codebase）的能力。
