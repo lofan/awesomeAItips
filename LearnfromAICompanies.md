@@ -6,7 +6,7 @@ Here is a breakdown of the key educational paths available through those specifi
 
 ### Technical & Engineering Paths
 These resources focus on the "how-it-works" aspect, suitable for developers and those interested in model architecture.
-* **[DeepLearning.AI](http://deeplearning.ai) & [NVIDIA](http://developer.nvidia.com/cuda):** These are the primary sources for understanding **Neural Networks** and **GPU acceleration**. They offer short, modular courses on building **RAG (Retrieval-Augmented Generation)** systems and working with hardware-level optimizations.
+* **[DeepLearning.AI](http://deeplearning.ai) & [NVIDIA](http://developer.nvidia.com/cuda) , [AMD](https://www.amd.com/en/developer/ai-dev-program.html) :** These are the primary sources for understanding **Neural Networks** and **GPU acceleration**. They offer short, modular courses on building **RAG (Retrieval-Augmented Generation)** systems and working with hardware-level optimizations.
     * **[Hugging Face](http://huggingface.co/learn):** This is the "open-source classroom." Their courses are essential for learning how to use **Transformers**, fine-tune open-source models (like Llama or Mistral), and manage datasets.
 
 ### Ecosystem & Cloud Deployment
@@ -23,8 +23,8 @@ For those focused on maximizing the output of specific Large Language Models (LL
 1.  **Foundations:** Start with **DeepLearning.AI**'s "AI for Everyone" or **Microsoft**'s AI literacy tracks to get the terminology right.
 2.  **Specialization:** * If you want to **code apps**, head to **[Hugging Face](http://huggingface.co/learn)** and **OpenAI**.
     * If you want to **manage data/cloud**, head to **AWS** or **[Google](http://grow.google/ai)**.
-    * If you want to focus on **hardware/performance**, head to **[NVIDIA](http://developer.nvidia.com/cuda)**.
-3.  **Ethics & Safety:** Supplement any path with **IBM**'s governance modules to ensure responsible development.
+    * If you want to focus on **hardware/performance**, head to **[NVIDIA](http://developer.nvidia.com/cuda), [AMD](https://www.amd.com/en/developer/ai-dev-program.html)**.
+3.  **Ethics & Safety:** Supplement any path with *[IBM](http://skillsbuild.org)**'s governance modules to ensure responsible development.
 
 This collection effectively maps out a self-taught curriculum that rivals many paid bootcamps by leveraging the primary documentation and training from the creators of the technology itself.
 
