@@ -26,3 +26,9 @@ Details: The small red mole on her shoulder is still present. A simple key card 
 Quality: Authentic 35mm film grain, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text.
 ```
 <img width="1023" height="1537" alt="ChatGPT Image Apr 23, 2026, 12_22_16 PM" src="https://github.com/user-attachments/assets/afb3e664-ec8a-4a97-b930-1511ede36bb0" />
+
+## 日系 35mm 膠片拍出來的真人街拍
+
+```
+35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s Japanese female idol with ultra-realistic delicate refined Japanese features, natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt loosely tied at the waist, paired with a black pleated mini skirt, simple white slides, casual leaning pose against the glass door of a 24-hour convenience store at late night, one hand holding a bottle of iced drink, soft gaze straight at the viewer, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door,  wears black high heel, blurred convenience store interior with shelves in background, authentic 35mm film color grading, natural hair strands, realistic fabric wrinkles, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text.
+```
