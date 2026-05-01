@@ -1,6 +1,6 @@
 # Use Claude to learn anything 100x faster.
 
-The only 7 prompts you need:
+## The only 7 prompts you need:
 1. The Anchor Explainer "Explain [topic] as if I'm intelligent but have zero background in it. Use one unexpected real-world analogy that makes the core idea immediately click. Then give me the 3 things I need to understand before I go any deeper."
 2. The Socratic Drill "Quiz me on [topic] with 10 progressive questions — start simple, build to expert-level. After every answer I give: tell me what I got right, what I missed, the underlying principle, and one follow-up question to go deeper."
 3. The Mental Model Builder "What are the 3–5 foundational principles of [topic] that, once truly understood, make everything else click? For each one: explain it in plain language, show how it plays out in a real example, and tell me the #1 mistake people make when they don't understand it."
@@ -9,13 +9,20 @@ The only 7 prompts you need:
 6. The Expert Challenger "Act as a world-class [expert]. I'll share my current understanding of [topic]. Your job: challenge my assumptions, expose my blind spots, and teach me how an expert actually thinks about this — not just the facts, but the judgment."
 7. The Pressure Test "I've just studied [topic]. Give me a realistic, high-stakes scenario where I must apply this knowledge to solve a problem. After I respond, break down my reasoning: what I applied correctly, what I missed, and what an expert would have done differently."
 
-1. 錨點解釋器 “解釋[主題]，就好像我很聰明，但背景知識為零一樣。使用一個意想不到的現實世界類比，使核心思想立即產生共鳴。然後在我進一步深入之前，給我需要理解的三件事。”
-2. 蘇格拉底式練習“用 10 個漸進的問題對我進行 [主題] 測試 - 從簡單開始，逐步提高到專家水平。在我給出的每一個答案之後：告訴我我做對了什麼，我錯過了什麼，基本原則，以及一個進一步深入的後續問題。”
-3. 心智模型建構者“[主題]的 3-5 個基本原則是什麼，一旦真正理解，其他一切都會變得容易理解？對於每一個原則：用通俗易懂的語言解釋它，展示它在真實示例中的表現，並告訴我人們在不理解它時會犯的第一個錯誤。”
-4. 流言終結者“人們對[主題]最常見的 5 種誤解是什麼？對於每一個誤解：陳述流言，準確解釋其錯誤原因，分享證據或專家共識的實際內容，並告訴我為什麼聰明人仍然相信它。”
-5. 蒸餾引擎“將[書籍/概念/領域]提煉成10個想法，這些想法將真正改變我的思維或行為方式。對於每個想法：一句話中的核心想法→為什麼它在現實世界中很重要→我今天可以做的一件具體事情來應用它。”
-6. 專家挑戰者“扮演世界級的[專家]。我將分享我目前對[主題]的理解。你的工作：挑戰我的假設，暴露我的盲點，並教我專家如何真正思考這個問題——不僅僅是事實，還有判斷。”
-7. 壓力測試“我剛剛學習了[主題]。給我一個現實的、高風險的場景，我必須運用這些知識來解決問題。在我回答之後，分解我的推理：我正確應用了什麼，我錯過了什麼，以及專家會採取什麼不同的做法。”
+## Example
+1. 錨點解釋法 “解釋[主題]，就好像我很聰明，但背景知識為零一樣。使用一個意想不到的現實世界類比，使核心思想立即產生共鳴。然後在我進一步深入之前，給我需要理解的三件事。”
+'''
+解釋[Quantum]，就好像我很聰明，但背景知識為零一樣。使用一個意想不到的現實世界類比，使核心思想立即產生共鳴。然後在我進一步深入之前，給我需要理解的三件事。
+'''
+3. 蘇格拉底式練習 “用 10 個漸進的問題對我進行 [主題] 測試 - 從簡單開始，逐步提高到專家水平。在我給出的每一個答案之後：告訴我我做對了什麼，我錯過了什麼，基本原則，以及一個進一步深入的後續問題。”
+'''   
+用 10 個漸進的問題對我進行 [主題] 測試 - 從簡單開始，逐步提高到專家水平。在我給出的每一個答案之後：告訴我我做對了什麼，我錯過了什麼，基本原則，以及一個進一步深入的後續問題。
+'''   
+4. 心智模型建構者 “[主題]的 3-5 個基本原則是什麼，一旦真正理解，其他一切都會變得容易理解？對於每一個原則：用通俗易懂的語言解釋它，展示它在真實示例中的表現，並告訴我人們在不理解它時會犯的第一個錯誤。”
+5. 流言終結者 “人們對[主題]最常見的 5 種誤解是什麼？對於每一個誤解：陳述流言，準確解釋其錯誤原因，分享證據或專家共識的實際內容，並告訴我為什麼聰明人仍然相信它。”
+6. 蒸餾引擎 “將[書籍/概念/領域]提煉成10個想法，這些想法將真正改變我的思維或行為方式。對於每個想法：一句話中的核心想法→為什麼它在現實世界中很重要→我今天可以做的一件具體事情來應用它。”
+7. 專家挑戰者 “扮演世界級的[專家]。我將分享我目前對[主題]的理解。你的工作：挑戰我的假設，暴露我的盲點，並教我專家如何真正思考這個問題——不僅僅是事實，還有判斷。”
+8. 壓力測試 “我剛剛學習了[主題]。給我一個現實的、高風險的場景，我必須運用這些知識來解決問題。在我回答之後，分解我的推理：我正確應用了什麼，我錯過了什麼，以及專家會採取什麼不同的做法。”
 
 
 呢套 Prompt（提示詞）組合簡直係一套 **「深度學習工具箱」**。佢哋唔係叫 AI 隨便俾啲資料你，而係透過唔同嘅思維框架（Frameworks）嚟榨取 AI 嘅知識，幫你由淺入深咁拆解一個主題。
