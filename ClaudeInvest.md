@@ -1,9 +1,8 @@
-# 1【Prompt 1】Unearth 5 Truly Advantageous Trading Opportunities Within 60 Seconds
+# Prompt 1 Unearth 5 Truly Advantageous Trading Opportunities Within 60 Seconds
 
-"Look at the stocks that are rising today, and pick 5 for me where the risk/reward ratio is genuinely favorable to me—not just ones that superficially look bullish. For each one, tell me: where to enter, what happens if I'm wrong, where to take profit, and exactly which segment of the market is mispriced.
-Skip the obvious ones that everyone's already piled into."
+"Look at the stocks that are rising today, and pick 5 for me where the risk/reward ratio is genuinely favorable to me—not just ones that superficially look bullish. For each one, tell me: where to enter, what happens if I'm wrong, where to take profit, and exactly which segment of the market is mispriced. Skip the obvious ones that everyone's already piled into."
 
-#【Prompt 2】Chart Analysis That Won't Bullshit You
+# Prompt 2 Chart Analysis That Won't Bullshit You
 
 "Read through [code], pretending you're not trying to sell me something. Look at both daily and weekly charts.
 
